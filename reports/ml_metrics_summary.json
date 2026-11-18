@@ -1,0 +1,643 @@
+{
+  "ev_portfolio": {
+    "total_units": 5000,
+    "portfolio_msrp_mm": 401.65,
+    "contracted_rv_mm": 225.12,
+    "return_rate_pct": 56.2,
+    "net_rv_impairment_exposure_mm": 19.29,
+    "classifier_auc": 0.644,
+    "regressor_mae": 532.78,
+    "regressor_r2": 0.9954,
+    "reg_benchmarks": {
+      "LinearRegression": {
+        "mae": 921.52,
+        "r2": 0.9831
+      },
+      "RandomForestRegressor": {
+        "mae": 1312.11,
+        "r2": 0.9752
+      },
+      "GradientBoostingRegressor": {
+        "mae": 532.78,
+        "r2": 0.9954
+      }
+    },
+    "clf_benchmarks": {
+      "LogisticRegression": {
+        "roc_auc": 0.6832,
+        "accuracy": 0.635
+      },
+      "RandomForestClassifier": {
+        "roc_auc": 0.644,
+        "accuracy": 0.605
+      },
+      "GradientBoostingClassifier": {
+        "roc_auc": 0.6411,
+        "accuracy": 0.621
+      }
+    },
+    "scenarios": {
+      "Best Case (+10 Index)": {
+        "passive_exposure_mm": 10.03,
+        "corridor_50_50_mm": 7.08,
+        "savings_mm": 2.95
+      },
+      "Base Case (Current)": {
+        "passive_exposure_mm": 19.73,
+        "corridor_50_50_mm": 12.74,
+        "savings_mm": 6.98
+      },
+      "Worst Case (-10 Index)": {
+        "passive_exposure_mm": 31.06,
+        "corridor_50_50_mm": 18.7,
+        "savings_mm": 12.36
+      }
+    }
+  },
+  "governance": {
+    "total_initiatives": 1200,
+    "overall_slippage_rate_pct": 14.6,
+    "watermelon_count": 18,
+    "best_model_name": "LogisticRegression",
+    "benchmarks": {
+      "LogisticRegression": {
+        "accuracy": 0.8958,
+        "precision": 0.75,
+        "recall": 0.4286,
+        "f1": 0.5455,
+        "roc_auc": 0.8705,
+        "pr_auc": 0.6141
+      },
+      "RandomForestClassifier": {
+        "accuracy": 0.8792,
+        "precision": 0.875,
+        "recall": 0.2,
+        "f1": 0.3256,
+        "roc_auc": 0.861,
+        "pr_auc": 0.6139
+      },
+      "GradientBoostingClassifier": {
+        "accuracy": 0.8958,
+        "precision": 0.7083,
+        "recall": 0.4857,
+        "f1": 0.5763,
+        "roc_auc": 0.8569,
+        "pr_auc": 0.6523
+      }
+    },
+    "top_features": [
+      [
+        "dependency_count",
+        0.1517
+      ],
+      [
+        "review_queue_days",
+        0.1078
+      ],
+      [
+        "open_raid_blockers",
+        0.1076
+      ],
+      [
+        "approval_gates_count",
+        0.0965
+      ],
+      [
+        "tech_capacity_utilization_pct",
+        0.094
+      ],
+      [
+        "stakeholder_alignment_score",
+        0.0927
+      ],
+      [
+        "workstream_function_Marketing",
+        0.0342
+      ],
+      [
+        "strategic_pillar_CIB/Private Bank Cross-Sell",
+        0.0332
+      ],
+      [
+        "workstream_function_Operations",
+        0.0321
+      ],
+      [
+        "oem_partner_Jaguar Land Rover",
+        0.031
+      ]
+    ],
+    "sample_alerts": [
+      {
+        "initiative_id": "INIT-1065",
+        "oem_partner": "Subaru",
+        "workstream_function": "Compliance",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 7,
+        "review_queue_days": 13.0,
+        "tech_capacity_utilization_pct": 93.0,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.9645,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1539",
+        "oem_partner": "Subaru",
+        "workstream_function": "Compliance",
+        "strategic_pillar": "Dealer Floorplan Enablement",
+        "dependency_count": 8,
+        "review_queue_days": 16.4,
+        "tech_capacity_utilization_pct": 94.1,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.9636,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1349",
+        "oem_partner": "Subaru",
+        "workstream_function": "Technology",
+        "strategic_pillar": "Dealer Floorplan Enablement",
+        "dependency_count": 7,
+        "review_queue_days": 3.5,
+        "tech_capacity_utilization_pct": 106.0,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.9582,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1938",
+        "oem_partner": "Tesla",
+        "workstream_function": "Legal",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 7,
+        "review_queue_days": 16.3,
+        "tech_capacity_utilization_pct": 91.5,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.9561,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-2005",
+        "oem_partner": "Aston Martin",
+        "workstream_function": "Risk",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 7,
+        "review_queue_days": 6.4,
+        "tech_capacity_utilization_pct": 72.5,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.9536,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1649",
+        "oem_partner": "Jaguar Land Rover",
+        "workstream_function": "Risk",
+        "strategic_pillar": "Dealer Floorplan Enablement",
+        "dependency_count": 6,
+        "review_queue_days": 11.4,
+        "tech_capacity_utilization_pct": 86.1,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.9447,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1905",
+        "oem_partner": "Tesla",
+        "workstream_function": "Compliance",
+        "strategic_pillar": "EV Promo Launch",
+        "dependency_count": 5,
+        "review_queue_days": 9.3,
+        "tech_capacity_utilization_pct": 85.8,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.9363,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1408",
+        "oem_partner": "McLaren",
+        "workstream_function": "Technology",
+        "strategic_pillar": "DTC Credit API Integration",
+        "dependency_count": 6,
+        "review_queue_days": 12.1,
+        "tech_capacity_utilization_pct": 104.1,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.9223,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1657",
+        "oem_partner": "Maserati",
+        "workstream_function": "Risk",
+        "strategic_pillar": "DTC Credit API Integration",
+        "dependency_count": 5,
+        "review_queue_days": 17.0,
+        "tech_capacity_utilization_pct": 90.7,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.9201,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1570",
+        "oem_partner": "Rivian",
+        "workstream_function": "Compliance",
+        "strategic_pillar": "EV Promo Launch",
+        "dependency_count": 8,
+        "review_queue_days": 16.5,
+        "tech_capacity_utilization_pct": 110.5,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.9133,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1348",
+        "oem_partner": "Rivian",
+        "workstream_function": "Finance",
+        "strategic_pillar": "Dealer Floorplan Enablement",
+        "dependency_count": 6,
+        "review_queue_days": 6.3,
+        "tech_capacity_utilization_pct": 102.3,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.912,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1448",
+        "oem_partner": "Jaguar Land Rover",
+        "workstream_function": "Technology",
+        "strategic_pillar": "DTC Credit API Integration",
+        "dependency_count": 6,
+        "review_queue_days": 11.3,
+        "tech_capacity_utilization_pct": 101.7,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.9109,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1578",
+        "oem_partner": "Jaguar Land Rover",
+        "workstream_function": "Compliance",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 6,
+        "review_queue_days": 10.8,
+        "tech_capacity_utilization_pct": 88.4,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.9098,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1983",
+        "oem_partner": "Tesla",
+        "workstream_function": "Marketing",
+        "strategic_pillar": "Dealer Floorplan Enablement",
+        "dependency_count": 7,
+        "review_queue_days": 1.9,
+        "tech_capacity_utilization_pct": 75.0,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.9052,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1300",
+        "oem_partner": "Rivian",
+        "workstream_function": "Compliance",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 5,
+        "review_queue_days": 11.8,
+        "tech_capacity_utilization_pct": 84.7,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.8852,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1221",
+        "oem_partner": "Tesla",
+        "workstream_function": "Product",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 6,
+        "review_queue_days": 9.2,
+        "tech_capacity_utilization_pct": 89.1,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.8796,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1404",
+        "oem_partner": "Jaguar Land Rover",
+        "workstream_function": "Risk",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 8,
+        "review_queue_days": 9.1,
+        "tech_capacity_utilization_pct": 76.6,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.8789,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1153",
+        "oem_partner": "Aston Martin",
+        "workstream_function": "Legal",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 6,
+        "review_queue_days": 11.7,
+        "tech_capacity_utilization_pct": 83.4,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.866,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1304",
+        "oem_partner": "Rivian",
+        "workstream_function": "Legal",
+        "strategic_pillar": "EV Promo Launch",
+        "dependency_count": 8,
+        "review_queue_days": 12.7,
+        "tech_capacity_utilization_pct": 89.7,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.8602,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1556",
+        "oem_partner": "Tesla",
+        "workstream_function": "Technology",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 5,
+        "review_queue_days": 9.0,
+        "tech_capacity_utilization_pct": 101.7,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.8595,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1254",
+        "oem_partner": "Subaru",
+        "workstream_function": "Risk",
+        "strategic_pillar": "Residual Risk Corridor",
+        "dependency_count": 5,
+        "review_queue_days": 14.7,
+        "tech_capacity_utilization_pct": 71.8,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.8507,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1642",
+        "oem_partner": "Tesla",
+        "workstream_function": "Product",
+        "strategic_pillar": "QBR Governance Automation",
+        "dependency_count": 6,
+        "review_queue_days": 11.8,
+        "tech_capacity_utilization_pct": 107.3,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.8482,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-2166",
+        "oem_partner": "Subaru",
+        "workstream_function": "Technology",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 8,
+        "review_queue_days": 9.4,
+        "tech_capacity_utilization_pct": 90.8,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.8434,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1123",
+        "oem_partner": "Tesla",
+        "workstream_function": "Finance",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 7,
+        "review_queue_days": 6.4,
+        "tech_capacity_utilization_pct": 102.0,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.8229,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1714",
+        "oem_partner": "Subaru",
+        "workstream_function": "Legal",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 8,
+        "review_queue_days": 13.1,
+        "tech_capacity_utilization_pct": 67.1,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.8186,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1810",
+        "oem_partner": "Tesla",
+        "workstream_function": "Marketing",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 7,
+        "review_queue_days": 6.7,
+        "tech_capacity_utilization_pct": 68.7,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.8105,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1862",
+        "oem_partner": "Tesla",
+        "workstream_function": "Controls",
+        "strategic_pillar": "QBR Governance Automation",
+        "dependency_count": 8,
+        "review_queue_days": 15.0,
+        "tech_capacity_utilization_pct": 90.1,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.8074,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-2045",
+        "oem_partner": "Jaguar Land Rover",
+        "workstream_function": "Product",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 8,
+        "review_queue_days": 9.3,
+        "tech_capacity_utilization_pct": 102.6,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.8062,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1564",
+        "oem_partner": "Jaguar Land Rover",
+        "workstream_function": "Risk",
+        "strategic_pillar": "Residual Risk Corridor",
+        "dependency_count": 7,
+        "review_queue_days": 13.7,
+        "tech_capacity_utilization_pct": 92.4,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.8054,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-2193",
+        "oem_partner": "Subaru",
+        "workstream_function": "Compliance",
+        "strategic_pillar": "Residual Risk Corridor",
+        "dependency_count": 7,
+        "review_queue_days": 8.8,
+        "tech_capacity_utilization_pct": 75.8,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.8039,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1370",
+        "oem_partner": "Tesla",
+        "workstream_function": "Operations",
+        "strategic_pillar": "EV Promo Launch",
+        "dependency_count": 7,
+        "review_queue_days": 4.7,
+        "tech_capacity_utilization_pct": 82.7,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.789,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1591",
+        "oem_partner": "Rivian",
+        "workstream_function": "Risk",
+        "strategic_pillar": "DTC Credit API Integration",
+        "dependency_count": 8,
+        "review_queue_days": 9.1,
+        "tech_capacity_utilization_pct": 95.4,
+        "self_reported_rag": "Red",
+        "predicted_slip_prob": 0.7889,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1653",
+        "oem_partner": "Subaru",
+        "workstream_function": "Operations",
+        "strategic_pillar": "QBR Governance Automation",
+        "dependency_count": 8,
+        "review_queue_days": 11.0,
+        "tech_capacity_utilization_pct": 91.9,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.7876,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1829",
+        "oem_partner": "Subaru",
+        "workstream_function": "Marketing",
+        "strategic_pillar": "Dealer Floorplan Enablement",
+        "dependency_count": 8,
+        "review_queue_days": 3.4,
+        "tech_capacity_utilization_pct": 76.4,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.7856,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1282",
+        "oem_partner": "Jaguar Land Rover",
+        "workstream_function": "Legal",
+        "strategic_pillar": "DTC Credit API Integration",
+        "dependency_count": 7,
+        "review_queue_days": 14.3,
+        "tech_capacity_utilization_pct": 90.7,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.7802,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1397",
+        "oem_partner": "Tesla",
+        "workstream_function": "Risk",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 2,
+        "review_queue_days": 20.6,
+        "tech_capacity_utilization_pct": 81.4,
+        "self_reported_rag": "Green",
+        "predicted_slip_prob": 0.7791,
+        "watermelon_flag": true
+      },
+      {
+        "initiative_id": "INIT-1119",
+        "oem_partner": "Aston Martin",
+        "workstream_function": "Compliance",
+        "strategic_pillar": "EV Promo Launch",
+        "dependency_count": 5,
+        "review_queue_days": 9.3,
+        "tech_capacity_utilization_pct": 90.5,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.7749,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1702",
+        "oem_partner": "Tesla",
+        "workstream_function": "Risk",
+        "strategic_pillar": "DTC Credit API Integration",
+        "dependency_count": 8,
+        "review_queue_days": 14.4,
+        "tech_capacity_utilization_pct": 70.7,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.7726,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-2097",
+        "oem_partner": "Subaru",
+        "workstream_function": "Controls",
+        "strategic_pillar": "CIB/Private Bank Cross-Sell",
+        "dependency_count": 8,
+        "review_queue_days": 12.5,
+        "tech_capacity_utilization_pct": 76.6,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.7625,
+        "watermelon_flag": false
+      },
+      {
+        "initiative_id": "INIT-1015",
+        "oem_partner": "Aston Martin",
+        "workstream_function": "Compliance",
+        "strategic_pillar": "Residual Risk Corridor",
+        "dependency_count": 7,
+        "review_queue_days": 14.0,
+        "tech_capacity_utilization_pct": 82.6,
+        "self_reported_rag": "Amber",
+        "predicted_slip_prob": 0.7583,
+        "watermelon_flag": false
+      }
+    ]
+  },
+  "subvention_tiers": [
+    {
+      "dealer_tier": 1,
+      "baseline_volume": 1200,
+      "allocated_subvention_usd": 2716981.13,
+      "subvention_per_unit_usd": 2264.15,
+      "projected_volume_lift_pct": 19.25
+    },
+    {
+      "dealer_tier": 2,
+      "baseline_volume": 2500,
+      "allocated_subvention_usd": 4402515.72,
+      "subvention_per_unit_usd": 1761.01,
+      "projected_volume_lift_pct": 14.97
+    },
+    {
+      "dealer_tier": 3,
+      "baseline_volume": 1500,
+      "allocated_subvention_usd": 2075471.7,
+      "subvention_per_unit_usd": 1383.65,
+      "projected_volume_lift_pct": 11.76
+    },
+    {
+      "dealer_tier": 4,
+      "baseline_volume": 800,
+      "allocated_subvention_usd": 805031.45,
+      "subvention_per_unit_usd": 1006.29,
+      "projected_volume_lift_pct": 8.55
+    }
+  ]
+}

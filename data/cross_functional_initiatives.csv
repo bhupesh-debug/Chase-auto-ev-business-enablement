@@ -1,0 +1,1201 @@
+initiative_id,oem_partner,workstream_function,strategic_pillar,dependency_count,approval_gates_count,review_queue_days,tech_capacity_utilization_pct,open_raid_blockers,stakeholder_alignment_score,days_to_target_deadline,self_reported_rag,milestone_slipped,delay_days,predicted_slip_prob,watermelon_flag
+INIT-1000,Subaru,Product,Residual Risk Corridor,4,5,8.5,54.6,2,68.8,51,Green,1,5,0.1017,False
+INIT-1001,Aston Martin,Technology,CIB/Private Bank Cross-Sell,4,3,9.7,74.5,1,70.8,16,Green,1,0,0.1686,False
+INIT-1002,Subaru,Operations,DTC Credit API Integration,3,3,7.2,83.0,1,68.8,27,Green,0,0,0.0184,False
+INIT-1003,Tesla,Compliance,Residual Risk Corridor,2,4,8.4,85.8,0,80.7,31,Green,0,0,0.0203,False
+INIT-1004,Rivian,Marketing,DTC Credit API Integration,2,4,5.2,86.1,0,78.4,48,Green,0,0,0.0176,False
+INIT-1005,Rivian,Product,CIB/Private Bank Cross-Sell,5,1,10.3,67.6,1,69.5,11,Green,0,0,0.0883,False
+INIT-1006,Jaguar Land Rover,Finance,DTC Credit API Integration,5,1,5.0,88.3,2,60.1,52,Green,0,0,0.0588,False
+INIT-1007,Jaguar Land Rover,Compliance,CIB/Private Bank Cross-Sell,7,5,10.0,83.5,0,72.7,41,Green,0,0,0.2746,False
+INIT-1008,Rivian,Operations,EV Promo Launch,8,3,7.5,83.4,1,68.7,42,Green,0,0,0.1658,False
+INIT-1009,Tesla,Product,Residual Risk Corridor,8,2,2.6,73.5,3,63.7,55,Green,1,7,0.4237,False
+INIT-1010,Tesla,Operations,DTC Credit API Integration,7,3,4.1,60.6,2,69.2,11,Green,0,0,0.0663,False
+INIT-1011,Rivian,Product,Dealer Floorplan Enablement,1,1,8.2,82.3,0,65.3,32,Green,0,0,0.0101,False
+INIT-1012,Jaguar Land Rover,Technology,Residual Risk Corridor,5,3,7.8,68.4,2,87.0,42,Green,0,0,0.0236,False
+INIT-1013,Rivian,Technology,Dealer Floorplan Enablement,3,5,7.2,78.7,0,85.6,22,Green,0,0,0.0218,False
+INIT-1014,Jaguar Land Rover,Compliance,EV Promo Launch,6,4,10.8,99.2,1,65.4,59,Green,0,0,0.3467,False
+INIT-1015,Aston Martin,Compliance,Residual Risk Corridor,7,5,14.0,82.6,1,66.6,22,Amber,1,9,0.7583,False
+INIT-1016,Maserati,Risk,Dealer Floorplan Enablement,7,5,9.1,81.4,0,78.0,23,Green,0,0,0.2562,False
+INIT-1017,Subaru,Product,Residual Risk Corridor,3,1,1.1,97.8,1,66.7,57,Green,0,0,0.0156,False
+INIT-1018,Tesla,Compliance,DTC Credit API Integration,8,4,9.7,77.9,0,79.0,13,Green,0,0,0.1693,False
+INIT-1019,Tesla,Compliance,DTC Credit API Integration,5,5,7.1,67.5,3,61.1,43,Amber,1,12,0.4603,False
+INIT-1020,Rivian,Marketing,QBR Governance Automation,4,1,5.3,80.1,0,76.8,46,Green,0,0,0.0119,False
+INIT-1021,Maserati,Controls,Dealer Floorplan Enablement,7,3,7.1,81.8,0,69.4,30,Green,0,0,0.0672,False
+INIT-1022,Jaguar Land Rover,Operations,CIB/Private Bank Cross-Sell,8,5,13.1,71.6,1,71.7,58,Green,0,0,0.4404,False
+INIT-1023,Subaru,Finance,QBR Governance Automation,7,5,2.8,73.6,0,91.6,10,Green,0,0,0.0172,False
+INIT-1024,Maserati,Product,EV Promo Launch,2,2,5.1,61.5,0,73.6,15,Green,0,0,0.0011,False
+INIT-1025,Subaru,Legal,Dealer Floorplan Enablement,4,5,10.7,78.0,1,71.6,22,Green,0,0,0.2029,False
+INIT-1026,Rivian,Compliance,EV Promo Launch,1,2,11.8,64.7,1,76.8,43,Green,0,0,0.0055,False
+INIT-1027,McLaren,Risk,DTC Credit API Integration,7,3,9.7,74.5,0,73.7,48,Green,0,0,0.1339,False
+INIT-1028,Rivian,Finance,Residual Risk Corridor,6,4,7.4,73.5,1,88.0,23,Green,0,0,0.0507,False
+INIT-1029,Rivian,Controls,DTC Credit API Integration,6,2,13.2,85.0,1,76.5,20,Amber,1,9,0.1288,False
+INIT-1030,Jaguar Land Rover,Risk,DTC Credit API Integration,2,4,5.7,87.4,1,82.6,40,Green,0,0,0.0165,False
+INIT-1031,Maserati,Risk,Dealer Floorplan Enablement,2,5,7.8,96.1,2,67.3,58,Green,0,0,0.3493,False
+INIT-1032,Jaguar Land Rover,Legal,DTC Credit API Integration,2,3,12.4,50.5,0,76.6,56,Green,0,0,0.0021,False
+INIT-1033,Maserati,Finance,QBR Governance Automation,1,4,11.2,82.4,0,70.9,10,Green,0,0,0.0163,False
+INIT-1034,Maserati,Finance,Dealer Floorplan Enablement,6,2,3.7,76.2,0,79.5,8,Green,0,0,0.0089,False
+INIT-1035,Subaru,Marketing,DTC Credit API Integration,5,5,5.1,88.1,2,76.0,57,Green,1,4,0.304,False
+INIT-1036,Tesla,Technology,CIB/Private Bank Cross-Sell,1,4,8.8,101.7,1,55.1,21,Green,1,4,0.4183,False
+INIT-1037,Tesla,Controls,Residual Risk Corridor,8,1,7.5,83.5,0,77.2,54,Green,0,0,0.0534,False
+INIT-1038,Tesla,Compliance,DTC Credit API Integration,4,1,11.6,87.8,1,69.6,4,Green,0,0,0.0839,False
+INIT-1039,Subaru,Risk,QBR Governance Automation,2,2,7.3,87.0,2,80.6,52,Green,0,0,0.0377,False
+INIT-1040,Rivian,Technology,Dealer Floorplan Enablement,5,4,5.8,78.9,1,69.3,9,Green,0,0,0.1333,False
+INIT-1041,Tesla,Operations,EV Promo Launch,5,1,5.6,56.0,0,70.6,6,Green,0,0,0.0029,False
+INIT-1042,Rivian,Technology,Dealer Floorplan Enablement,3,4,9.6,90.3,1,58.2,34,Green,1,4,0.2988,False
+INIT-1043,Rivian,Operations,Dealer Floorplan Enablement,4,5,12.6,78.8,0,85.7,31,Green,0,0,0.0481,False
+INIT-1044,Jaguar Land Rover,Marketing,Residual Risk Corridor,2,3,1.0,53.1,0,71.9,21,Green,0,0,0.0012,False
+INIT-1045,Jaguar Land Rover,Controls,Residual Risk Corridor,5,3,8.1,80.2,0,72.9,44,Green,0,0,0.0182,False
+INIT-1046,Jaguar Land Rover,Technology,Residual Risk Corridor,8,3,13.1,87.1,2,61.6,18,Green,1,14,0.7325,True
+INIT-1047,Aston Martin,Compliance,Dealer Floorplan Enablement,1,1,12.5,74.3,0,59.5,19,Green,0,0,0.0222,False
+INIT-1048,Aston Martin,Controls,Residual Risk Corridor,6,1,6.7,60.0,3,60.5,47,Green,0,0,0.1488,False
+INIT-1049,Jaguar Land Rover,Operations,Residual Risk Corridor,1,4,7.1,86.0,0,83.9,15,Green,0,0,0.0024,False
+INIT-1050,Aston Martin,Finance,QBR Governance Automation,6,1,11.0,72.7,0,77.2,6,Green,0,0,0.036,False
+INIT-1051,Tesla,Controls,DTC Credit API Integration,8,5,4.0,85.6,1,50.8,6,Amber,1,8,0.6288,False
+INIT-1052,Jaguar Land Rover,Controls,Dealer Floorplan Enablement,7,4,9.7,65.9,1,76.0,22,Green,1,4,0.0977,False
+INIT-1053,Maserati,Technology,DTC Credit API Integration,5,1,4.5,75.3,2,62.1,52,Green,0,0,0.0289,False
+INIT-1054,Tesla,Product,QBR Governance Automation,6,3,6.1,60.6,0,78.4,13,Green,1,3,0.0227,False
+INIT-1055,Rivian,Operations,QBR Governance Automation,7,4,1.0,64.1,2,87.0,55,Green,0,0,0.0194,False
+INIT-1056,Jaguar Land Rover,Controls,QBR Governance Automation,1,5,9.8,99.9,1,55.0,20,Green,0,0,0.1596,False
+INIT-1057,McLaren,Risk,QBR Governance Automation,4,2,11.1,71.1,0,70.4,59,Green,0,0,0.0441,False
+INIT-1058,Aston Martin,Compliance,EV Promo Launch,1,2,12.7,65.6,1,76.5,4,Green,0,0,0.0109,False
+INIT-1059,Tesla,Finance,QBR Governance Automation,2,1,5.1,78.4,0,70.4,39,Green,0,0,0.0043,False
+INIT-1060,Maserati,Product,Dealer Floorplan Enablement,3,2,1.0,97.3,1,52.8,29,Green,0,0,0.0541,False
+INIT-1061,Tesla,Controls,Dealer Floorplan Enablement,1,4,4.2,86.4,1,69.2,23,Green,0,0,0.0326,False
+INIT-1062,McLaren,Finance,Dealer Floorplan Enablement,6,3,7.0,73.3,1,87.5,8,Green,0,0,0.0495,False
+INIT-1063,Rivian,Risk,QBR Governance Automation,6,5,8.5,57.7,2,68.3,23,Green,0,0,0.3778,False
+INIT-1064,Maserati,Compliance,CIB/Private Bank Cross-Sell,8,4,13.5,81.3,0,64.1,21,Amber,1,9,0.5455,False
+INIT-1065,Subaru,Compliance,CIB/Private Bank Cross-Sell,7,4,13.0,93.0,4,67.7,28,Amber,1,17,0.9645,False
+INIT-1066,Rivian,Legal,EV Promo Launch,8,5,7.9,68.6,0,67.3,60,Green,0,0,0.1757,False
+INIT-1067,Tesla,Technology,QBR Governance Automation,1,4,11.9,74.3,0,81.0,25,Green,0,0,0.016,False
+INIT-1068,Tesla,Compliance,EV Promo Launch,4,5,11.0,75.5,0,61.9,27,Green,0,0,0.1529,False
+INIT-1069,Tesla,Controls,DTC Credit API Integration,3,3,4.2,66.9,0,78.5,17,Green,0,0,0.0031,False
+INIT-1070,Rivian,Finance,Dealer Floorplan Enablement,2,1,8.3,75.7,1,79.5,50,Green,0,0,0.0076,False
+INIT-1071,Tesla,Risk,EV Promo Launch,5,2,3.5,79.2,2,65.7,37,Green,0,0,0.1468,False
+INIT-1072,Maserati,Product,Residual Risk Corridor,8,4,11.2,91.6,1,77.1,10,Green,1,13,0.4845,False
+INIT-1073,Tesla,Product,Dealer Floorplan Enablement,3,2,3.7,62.6,1,84.7,5,Green,0,0,0.0061,False
+INIT-1074,Tesla,Operations,EV Promo Launch,6,4,7.3,78.7,1,71.8,35,Green,0,0,0.1085,False
+INIT-1075,Maserati,Marketing,EV Promo Launch,8,3,1.0,76.2,0,64.7,34,Green,0,0,0.0579,False
+INIT-1076,Aston Martin,Legal,EV Promo Launch,1,3,13.9,90.3,0,67.4,14,Green,0,0,0.0621,False
+INIT-1077,Subaru,Technology,Dealer Floorplan Enablement,5,2,4.5,82.2,1,67.3,47,Green,0,0,0.0492,False
+INIT-1078,Tesla,Operations,QBR Governance Automation,6,2,6.8,81.3,1,85.4,56,Green,0,0,0.0269,False
+INIT-1079,Rivian,Finance,QBR Governance Automation,6,4,6.6,76.6,3,55.3,54,Amber,0,0,0.6141,False
+INIT-1080,Tesla,Risk,DTC Credit API Integration,4,4,8.4,100.9,0,88.9,57,Green,0,0,0.0889,False
+INIT-1081,Jaguar Land Rover,Finance,CIB/Private Bank Cross-Sell,5,2,9.6,73.7,1,72.8,27,Green,0,0,0.0578,False
+INIT-1082,Tesla,Compliance,Dealer Floorplan Enablement,1,2,13.1,66.2,0,75.5,37,Green,0,0,0.0093,False
+INIT-1083,Tesla,Finance,Residual Risk Corridor,5,1,6.4,81.3,2,52.0,30,Green,0,0,0.238,False
+INIT-1084,Rivian,Compliance,Dealer Floorplan Enablement,3,5,11.7,89.4,2,70.8,57,Green,0,0,0.4292,False
+INIT-1085,Aston Martin,Compliance,Dealer Floorplan Enablement,5,3,9.7,78.5,0,85.4,34,Green,0,0,0.0415,False
+INIT-1086,Rivian,Finance,Residual Risk Corridor,7,3,6.8,76.2,0,70.4,27,Green,0,0,0.0688,False
+INIT-1087,Tesla,Legal,DTC Credit API Integration,7,4,11.8,84.7,0,84.9,14,Green,1,3,0.1813,False
+INIT-1088,Jaguar Land Rover,Operations,DTC Credit API Integration,3,2,5.0,67.6,2,85.9,29,Green,0,0,0.002,False
+INIT-1089,Tesla,Technology,Residual Risk Corridor,2,1,12.2,105.8,0,77.6,58,Green,0,0,0.038,False
+INIT-1090,Tesla,Controls,EV Promo Launch,2,5,11.8,83.9,0,78.6,34,Green,1,1,0.0414,False
+INIT-1091,Subaru,Technology,Residual Risk Corridor,4,5,10.0,72.1,0,88.3,12,Green,0,0,0.0211,False
+INIT-1092,Subaru,Product,Dealer Floorplan Enablement,7,2,5.9,66.0,1,60.2,19,Green,0,0,0.1236,False
+INIT-1093,Tesla,Compliance,Residual Risk Corridor,2,4,11.7,85.4,0,66.6,40,Green,0,0,0.0781,False
+INIT-1094,Jaguar Land Rover,Risk,Residual Risk Corridor,5,5,4.6,80.8,2,56.4,20,Green,0,0,0.4209,False
+INIT-1095,Rivian,Marketing,Residual Risk Corridor,8,4,8.7,76.7,2,70.2,24,Green,0,0,0.7202,True
+INIT-1096,Rivian,Technology,Residual Risk Corridor,3,1,9.6,94.0,1,74.3,54,Green,0,0,0.0366,False
+INIT-1097,Aston Martin,Compliance,Dealer Floorplan Enablement,2,5,11.2,74.7,0,81.6,42,Green,0,0,0.0372,False
+INIT-1098,Tesla,Marketing,CIB/Private Bank Cross-Sell,5,4,3.3,51.8,0,76.0,7,Green,0,0,0.0357,False
+INIT-1099,Subaru,Compliance,CIB/Private Bank Cross-Sell,1,3,11.0,89.8,0,82.4,26,Green,0,0,0.0173,False
+INIT-1100,Jaguar Land Rover,Operations,Residual Risk Corridor,4,4,3.6,67.7,4,60.2,17,Amber,1,15,0.1303,False
+INIT-1101,Rivian,Operations,DTC Credit API Integration,3,3,5.5,95.4,2,66.6,37,Green,0,0,0.0676,False
+INIT-1102,Aston Martin,Compliance,EV Promo Launch,6,4,7.4,75.2,1,74.5,5,Green,1,8,0.1289,False
+INIT-1103,Tesla,Controls,QBR Governance Automation,2,3,9.2,79.3,1,58.6,49,Green,0,0,0.0708,False
+INIT-1104,Jaguar Land Rover,Compliance,CIB/Private Bank Cross-Sell,3,4,11.6,70.1,1,86.7,42,Green,0,0,0.0278,False
+INIT-1105,Rivian,Operations,DTC Credit API Integration,4,2,7.7,64.8,2,80.7,6,Green,0,0,0.0107,False
+INIT-1106,Subaru,Legal,Residual Risk Corridor,2,5,10.8,78.9,0,72.7,21,Green,0,0,0.037,False
+INIT-1107,Tesla,Technology,EV Promo Launch,4,5,7.9,82.8,1,70.3,48,Green,0,0,0.169,False
+INIT-1108,Jaguar Land Rover,Technology,Dealer Floorplan Enablement,1,1,8.0,101.5,0,73.4,15,Green,0,0,0.0074,False
+INIT-1109,Rivian,Technology,Residual Risk Corridor,2,4,8.5,94.3,0,70.9,15,Green,0,0,0.0455,False
+INIT-1110,Rivian,Operations,QBR Governance Automation,7,1,4.2,86.4,3,52.5,39,Amber,0,0,0.3407,False
+INIT-1111,Jaguar Land Rover,Legal,Dealer Floorplan Enablement,5,2,16.3,73.1,0,65.7,51,Green,0,0,0.0917,False
+INIT-1112,Rivian,Compliance,Dealer Floorplan Enablement,1,5,8.6,79.8,0,79.8,13,Green,0,0,0.0164,False
+INIT-1113,Tesla,Compliance,Residual Risk Corridor,1,1,10.0,82.4,0,74.7,16,Green,0,0,0.0063,False
+INIT-1114,Maserati,Technology,EV Promo Launch,3,2,14.8,71.3,1,63.0,27,Green,0,0,0.0479,False
+INIT-1115,Tesla,Legal,CIB/Private Bank Cross-Sell,7,1,8.2,67.4,1,80.5,22,Green,0,0,0.0829,False
+INIT-1116,Maserati,Operations,EV Promo Launch,7,1,1.0,51.0,0,87.9,58,Green,0,0,0.0003,False
+INIT-1117,McLaren,Operations,Residual Risk Corridor,1,2,8.3,71.1,0,81.1,26,Green,0,0,0.0014,False
+INIT-1118,Rivian,Technology,Residual Risk Corridor,3,5,8.8,89.9,0,75.4,41,Green,0,0,0.0636,False
+INIT-1119,Aston Martin,Compliance,EV Promo Launch,5,3,9.3,90.5,3,50.5,24,Amber,1,13,0.7749,False
+INIT-1120,Jaguar Land Rover,Controls,DTC Credit API Integration,8,2,8.9,98.9,0,82.5,59,Green,0,0,0.0508,False
+INIT-1121,Subaru,Controls,CIB/Private Bank Cross-Sell,3,3,11.1,85.8,1,85.4,51,Green,0,0,0.0478,False
+INIT-1122,Jaguar Land Rover,Marketing,EV Promo Launch,5,1,9.7,82.4,0,86.7,12,Green,0,0,0.0124,False
+INIT-1123,Tesla,Finance,CIB/Private Bank Cross-Sell,7,5,6.4,102.0,1,65.5,22,Amber,1,10,0.8229,False
+INIT-1124,McLaren,Finance,QBR Governance Automation,7,1,3.4,78.6,1,78.0,32,Green,1,0,0.0274,False
+INIT-1125,Rivian,Technology,QBR Governance Automation,3,1,4.7,95.7,1,75.7,27,Green,0,0,0.0163,False
+INIT-1126,Jaguar Land Rover,Technology,Residual Risk Corridor,4,4,6.1,79.3,0,61.9,11,Green,0,0,0.0325,False
+INIT-1127,Tesla,Risk,Residual Risk Corridor,2,3,3.5,65.1,1,76.2,14,Green,0,0,0.0121,False
+INIT-1128,Jaguar Land Rover,Marketing,QBR Governance Automation,8,4,1.9,83.1,0,71.3,25,Green,0,0,0.1086,False
+INIT-1129,Subaru,Marketing,CIB/Private Bank Cross-Sell,3,3,3.7,84.7,1,79.0,55,Green,0,0,0.0487,False
+INIT-1130,Jaguar Land Rover,Risk,QBR Governance Automation,7,3,8.7,73.5,0,60.4,20,Green,0,0,0.1551,False
+INIT-1131,McLaren,Compliance,DTC Credit API Integration,1,4,14.1,59.8,3,68.8,53,Green,0,0,0.1073,False
+INIT-1132,Maserati,Legal,QBR Governance Automation,4,4,1.3,74.2,0,60.2,15,Green,0,0,0.0129,False
+INIT-1133,Subaru,Controls,Dealer Floorplan Enablement,4,1,13.7,71.5,0,59.2,57,Green,0,0,0.0388,False
+INIT-1134,Rivian,Product,QBR Governance Automation,7,5,9.3,74.1,0,71.6,12,Green,1,5,0.2326,False
+INIT-1135,Jaguar Land Rover,Legal,Dealer Floorplan Enablement,2,3,17.6,59.2,1,64.8,49,Green,0,0,0.0587,False
+INIT-1136,McLaren,Finance,Residual Risk Corridor,3,4,5.8,82.7,0,77.6,13,Green,0,0,0.0179,False
+INIT-1137,Subaru,Operations,QBR Governance Automation,2,4,3.0,67.6,0,78.1,57,Green,0,0,0.0013,False
+INIT-1138,McLaren,Risk,Residual Risk Corridor,5,3,7.4,82.3,1,71.2,38,Green,0,0,0.1696,False
+INIT-1139,Maserati,Risk,DTC Credit API Integration,4,4,11.1,76.7,1,71.5,7,Green,0,0,0.1211,False
+INIT-1140,Rivian,Controls,CIB/Private Bank Cross-Sell,7,4,6.7,67.8,2,57.4,31,Green,1,6,0.5281,False
+INIT-1141,Tesla,Technology,Residual Risk Corridor,6,1,7.9,84.0,0,62.9,46,Green,0,0,0.0768,False
+INIT-1142,Rivian,Compliance,CIB/Private Bank Cross-Sell,2,5,12.1,87.3,0,83.5,48,Green,0,0,0.0686,False
+INIT-1143,Rivian,Technology,Residual Risk Corridor,2,4,5.1,81.8,0,78.9,35,Green,0,0,0.0081,False
+INIT-1144,Rivian,Controls,Dealer Floorplan Enablement,3,2,13.2,82.0,0,80.5,44,Green,0,0,0.0211,False
+INIT-1145,Tesla,Compliance,Residual Risk Corridor,2,1,13.9,54.0,0,77.9,29,Green,0,0,0.0038,False
+INIT-1146,Jaguar Land Rover,Risk,QBR Governance Automation,5,5,1.0,75.2,2,79.8,44,Green,0,0,0.0617,False
+INIT-1147,Rivian,Risk,Residual Risk Corridor,5,4,5.8,102.1,0,79.7,35,Green,1,4,0.1367,False
+INIT-1148,Maserati,Legal,DTC Credit API Integration,2,3,10.2,94.4,1,63.6,39,Green,0,0,0.0609,False
+INIT-1149,Tesla,Compliance,CIB/Private Bank Cross-Sell,8,4,6.6,70.5,0,82.9,26,Green,0,0,0.132,False
+INIT-1150,Maserati,Operations,EV Promo Launch,3,4,2.3,66.7,0,65.5,36,Green,0,0,0.0023,False
+INIT-1151,Tesla,Compliance,Dealer Floorplan Enablement,7,4,11.0,60.6,0,76.3,47,Green,1,4,0.1175,False
+INIT-1152,Tesla,Marketing,CIB/Private Bank Cross-Sell,6,5,2.3,76.6,1,81.0,13,Green,0,0,0.2746,False
+INIT-1153,Aston Martin,Legal,CIB/Private Bank Cross-Sell,6,4,11.7,83.4,2,59.4,43,Green,1,14,0.866,True
+INIT-1154,Tesla,Controls,Residual Risk Corridor,2,2,9.6,75.4,1,70.2,10,Green,0,0,0.0236,False
+INIT-1155,Rivian,Compliance,QBR Governance Automation,2,3,12.0,68.9,0,76.4,52,Green,0,0,0.0095,False
+INIT-1156,Maserati,Product,QBR Governance Automation,2,5,10.6,82.5,1,65.0,34,Green,0,0,0.1139,False
+INIT-1157,Maserati,Operations,EV Promo Launch,6,5,6.0,75.6,3,71.3,29,Green,0,0,0.1997,False
+INIT-1158,Rivian,Technology,CIB/Private Bank Cross-Sell,7,2,6.3,79.9,0,80.8,20,Green,0,0,0.055,False
+INIT-1159,Subaru,Operations,Residual Risk Corridor,8,1,6.4,106.6,1,84.8,45,Green,0,0,0.0768,False
+INIT-1160,Rivian,Product,QBR Governance Automation,1,2,3.3,76.9,2,67.0,15,Green,0,0,0.015,False
+INIT-1161,Aston Martin,Controls,QBR Governance Automation,1,3,5.7,71.5,0,70.2,16,Green,0,0,0.0046,False
+INIT-1162,Tesla,Finance,Residual Risk Corridor,4,5,4.8,59.1,2,57.8,35,Green,0,0,0.1652,False
+INIT-1163,Tesla,Technology,Residual Risk Corridor,1,2,6.9,87.7,1,89.1,58,Green,0,0,0.0065,False
+INIT-1164,Tesla,Risk,QBR Governance Automation,7,5,2.2,85.7,0,66.8,13,Green,0,0,0.2995,False
+INIT-1165,Tesla,Marketing,DTC Credit API Integration,2,1,1.0,70.0,1,73.4,9,Green,0,0,0.0047,False
+INIT-1166,Subaru,Risk,CIB/Private Bank Cross-Sell,4,5,9.4,75.4,1,80.7,13,Green,0,0,0.2151,False
+INIT-1167,Tesla,Technology,Residual Risk Corridor,2,4,10.1,70.3,1,67.3,18,Green,0,0,0.0678,False
+INIT-1168,Tesla,Technology,Dealer Floorplan Enablement,6,5,6.4,79.2,0,81.7,20,Green,0,0,0.1133,False
+INIT-1169,Tesla,Product,DTC Credit API Integration,6,4,3.5,65.3,1,61.5,42,Green,0,0,0.1094,False
+INIT-1170,Subaru,Operations,DTC Credit API Integration,7,5,4.6,78.9,1,82.6,45,Green,0,0,0.048,False
+INIT-1171,Jaguar Land Rover,Marketing,QBR Governance Automation,6,1,4.8,50.0,2,79.0,8,Green,0,0,0.0138,False
+INIT-1172,Tesla,Legal,EV Promo Launch,5,1,11.4,74.4,1,69.6,59,Green,0,0,0.0673,False
+INIT-1173,Jaguar Land Rover,Legal,DTC Credit API Integration,3,2,9.2,79.1,0,80.3,40,Green,0,0,0.004,False
+INIT-1174,Aston Martin,Controls,QBR Governance Automation,7,2,9.9,77.9,0,71.8,46,Green,0,0,0.0862,False
+INIT-1175,Jaguar Land Rover,Marketing,Dealer Floorplan Enablement,7,3,8.4,85.7,1,80.1,57,Green,1,4,0.2312,False
+INIT-1176,Subaru,Marketing,DTC Credit API Integration,1,2,5.8,84.9,0,78.0,27,Green,0,0,0.0046,False
+INIT-1177,Rivian,Controls,CIB/Private Bank Cross-Sell,2,3,4.2,62.3,0,76.3,14,Green,0,0,0.0032,False
+INIT-1178,Rivian,Legal,DTC Credit API Integration,3,4,9.5,86.1,0,69.6,49,Green,0,0,0.0449,False
+INIT-1179,Jaguar Land Rover,Risk,DTC Credit API Integration,4,4,14.0,90.3,1,69.7,29,Green,0,0,0.3098,False
+INIT-1180,Tesla,Finance,CIB/Private Bank Cross-Sell,2,4,2.7,65.2,0,82.6,56,Green,0,0,0.0048,False
+INIT-1181,Tesla,Technology,EV Promo Launch,3,3,8.8,61.9,1,74.3,44,Green,0,0,0.0185,False
+INIT-1182,Tesla,Finance,Residual Risk Corridor,5,4,1.0,74.8,0,62.0,13,Green,0,0,0.0379,False
+INIT-1183,Maserati,Controls,Residual Risk Corridor,2,4,8.6,85.4,1,73.7,56,Green,0,0,0.0234,False
+INIT-1184,McLaren,Legal,CIB/Private Bank Cross-Sell,7,1,1.2,92.3,1,80.4,32,Green,0,0,0.063,False
+INIT-1185,Subaru,Legal,DTC Credit API Integration,7,3,10.3,63.7,2,75.6,30,Green,0,0,0.1439,False
+INIT-1186,McLaren,Technology,Dealer Floorplan Enablement,1,2,13.6,85.6,1,65.2,31,Green,0,0,0.0865,False
+INIT-1187,McLaren,Marketing,CIB/Private Bank Cross-Sell,2,3,2.1,67.1,0,94.0,9,Green,0,0,0.0031,False
+INIT-1188,Rivian,Risk,QBR Governance Automation,6,3,6.2,88.9,2,69.8,43,Green,0,0,0.4094,False
+INIT-1189,Subaru,Technology,EV Promo Launch,1,3,8.2,80.8,0,73.9,20,Green,0,0,0.0054,False
+INIT-1190,Jaguar Land Rover,Compliance,Residual Risk Corridor,3,4,4.9,80.6,0,80.4,22,Green,0,0,0.0053,False
+INIT-1191,Jaguar Land Rover,Controls,DTC Credit API Integration,5,1,9.6,68.8,1,76.0,5,Green,0,0,0.0089,False
+INIT-1192,Jaguar Land Rover,Compliance,Dealer Floorplan Enablement,8,2,12.0,76.9,2,63.0,58,Green,1,13,0.4683,False
+INIT-1193,Rivian,Technology,EV Promo Launch,7,3,4.5,107.3,1,69.9,22,Green,0,0,0.2957,False
+INIT-1194,Rivian,Risk,QBR Governance Automation,6,3,7.0,79.6,2,74.1,27,Green,0,0,0.2884,False
+INIT-1195,McLaren,Finance,DTC Credit API Integration,2,4,5.2,79.4,0,71.8,21,Green,0,0,0.01,False
+INIT-1196,Tesla,Technology,Residual Risk Corridor,4,2,14.6,76.8,0,67.1,7,Green,0,0,0.0989,False
+INIT-1197,Rivian,Product,Dealer Floorplan Enablement,1,3,9.2,112.3,1,72.8,32,Green,0,0,0.1455,False
+INIT-1198,Subaru,Controls,Dealer Floorplan Enablement,6,5,14.5,81.3,1,70.9,29,Green,1,7,0.5191,False
+INIT-1199,Tesla,Product,Dealer Floorplan Enablement,2,2,5.7,62.6,0,76.5,19,Green,0,0,0.0043,False
+INIT-1200,Tesla,Product,EV Promo Launch,2,2,6.0,90.3,1,67.3,57,Green,0,0,0.035,False
+INIT-1201,Aston Martin,Compliance,Residual Risk Corridor,8,1,11.3,87.4,0,68.3,28,Green,1,2,0.221,False
+INIT-1202,Tesla,Compliance,CIB/Private Bank Cross-Sell,2,1,10.1,71.9,0,66.6,23,Green,0,0,0.018,False
+INIT-1203,Tesla,Risk,CIB/Private Bank Cross-Sell,4,3,11.1,74.9,1,74.4,19,Green,0,0,0.2801,False
+INIT-1204,Rivian,Risk,Residual Risk Corridor,4,2,9.4,80.3,0,71.3,35,Green,0,0,0.0457,False
+INIT-1205,McLaren,Controls,EV Promo Launch,7,3,6.4,73.8,1,75.4,59,Green,0,0,0.0612,False
+INIT-1206,Maserati,Marketing,EV Promo Launch,3,3,2.2,69.7,0,84.4,4,Green,0,0,0.0022,False
+INIT-1207,Jaguar Land Rover,Risk,Residual Risk Corridor,1,2,10.2,85.2,0,68.7,57,Green,0,0,0.0124,False
+INIT-1208,Tesla,Operations,EV Promo Launch,6,5,7.9,93.6,2,92.8,37,Green,0,0,0.2044,False
+INIT-1209,Rivian,Marketing,Dealer Floorplan Enablement,4,4,1.0,82.0,0,80.3,27,Green,0,0,0.0247,False
+INIT-1210,Jaguar Land Rover,Risk,Residual Risk Corridor,5,4,3.5,66.0,2,64.8,57,Green,0,0,0.0938,False
+INIT-1211,Tesla,Controls,Residual Risk Corridor,3,3,9.6,55.7,0,76.1,18,Green,0,0,0.0069,False
+INIT-1212,Jaguar Land Rover,Marketing,Dealer Floorplan Enablement,1,2,6.4,91.0,0,70.8,55,Green,0,0,0.0117,False
+INIT-1213,Subaru,Finance,CIB/Private Bank Cross-Sell,8,5,12.2,67.6,0,76.1,30,Green,0,0,0.3417,False
+INIT-1214,Aston Martin,Product,CIB/Private Bank Cross-Sell,8,4,5.8,68.5,1,73.9,44,Green,0,0,0.3724,False
+INIT-1215,Rivian,Legal,EV Promo Launch,2,5,15.6,66.9,0,75.6,23,Green,0,0,0.0399,False
+INIT-1216,Rivian,Legal,QBR Governance Automation,2,4,6.0,89.3,0,69.6,8,Green,0,0,0.0257,False
+INIT-1217,Subaru,Operations,QBR Governance Automation,8,2,8.2,50.0,1,75.5,47,Green,0,0,0.0183,False
+INIT-1218,Maserati,Product,QBR Governance Automation,7,1,5.9,75.7,1,78.0,9,Green,0,0,0.0274,False
+INIT-1219,Tesla,Operations,QBR Governance Automation,1,1,8.9,79.5,1,89.5,26,Green,0,0,0.0024,False
+INIT-1220,Jaguar Land Rover,Legal,Residual Risk Corridor,3,5,11.4,83.5,1,93.0,35,Green,0,0,0.0327,False
+INIT-1221,Tesla,Product,CIB/Private Bank Cross-Sell,6,5,9.2,89.1,2,65.5,20,Green,0,0,0.8796,True
+INIT-1222,Jaguar Land Rover,Operations,Residual Risk Corridor,3,4,12.2,78.2,1,79.9,57,Green,0,0,0.0226,False
+INIT-1223,Jaguar Land Rover,Risk,QBR Governance Automation,6,4,10.8,104.8,1,80.3,19,Green,1,5,0.4463,False
+INIT-1224,Aston Martin,Legal,CIB/Private Bank Cross-Sell,5,1,13.7,67.2,0,78.3,36,Green,0,0,0.0525,False
+INIT-1225,McLaren,Risk,DTC Credit API Integration,1,2,12.2,95.8,1,68.9,46,Green,1,1,0.0931,False
+INIT-1226,Tesla,Technology,EV Promo Launch,4,3,10.6,93.5,2,47.8,34,Amber,1,15,0.6691,False
+INIT-1227,McLaren,Product,Residual Risk Corridor,4,1,13.6,95.8,0,70.6,34,Green,0,0,0.1013,False
+INIT-1228,Tesla,Risk,DTC Credit API Integration,7,4,14.6,73.7,1,66.2,52,Amber,0,0,0.6984,False
+INIT-1229,Jaguar Land Rover,Product,Residual Risk Corridor,3,5,3.5,58.7,1,72.1,43,Green,0,0,0.0099,False
+INIT-1230,Tesla,Operations,CIB/Private Bank Cross-Sell,3,3,2.3,72.7,0,70.2,47,Green,0,0,0.0082,False
+INIT-1231,Jaguar Land Rover,Product,DTC Credit API Integration,7,4,7.3,67.6,0,78.6,39,Green,0,0,0.0272,False
+INIT-1232,Jaguar Land Rover,Compliance,EV Promo Launch,4,3,5.6,60.7,1,65.8,20,Green,0,0,0.0092,False
+INIT-1233,Subaru,Controls,Residual Risk Corridor,5,2,7.6,79.2,0,95.0,24,Green,0,0,0.0042,False
+INIT-1234,Tesla,Marketing,EV Promo Launch,2,2,1.2,79.2,2,53.9,55,Green,0,0,0.0689,False
+INIT-1235,Maserati,Marketing,QBR Governance Automation,8,4,1.4,86.9,2,64.5,33,Green,1,7,0.4872,False
+INIT-1236,McLaren,Product,QBR Governance Automation,1,3,5.8,90.0,0,58.5,18,Green,0,0,0.0286,False
+INIT-1237,Tesla,Risk,EV Promo Launch,2,5,7.0,72.7,0,82.0,35,Green,0,0,0.0198,False
+INIT-1238,Tesla,Marketing,QBR Governance Automation,1,5,1.6,78.4,1,79.4,34,Green,0,0,0.0232,False
+INIT-1239,Subaru,Risk,EV Promo Launch,4,2,9.1,79.3,0,88.4,4,Green,0,0,0.0109,False
+INIT-1240,Tesla,Product,DTC Credit API Integration,8,2,9.0,104.5,2,76.6,60,Amber,1,15,0.6484,False
+INIT-1241,Jaguar Land Rover,Risk,EV Promo Launch,6,2,12.4,74.3,0,91.4,33,Green,1,1,0.0191,False
+INIT-1242,Jaguar Land Rover,Product,Dealer Floorplan Enablement,4,5,7.3,57.5,1,70.6,20,Green,0,0,0.0428,False
+INIT-1243,Tesla,Finance,CIB/Private Bank Cross-Sell,4,5,4.8,91.8,0,77.0,23,Green,0,0,0.1233,False
+INIT-1244,Tesla,Finance,DTC Credit API Integration,6,5,1.3,85.4,3,72.5,44,Amber,0,0,0.3767,False
+INIT-1245,Tesla,Operations,Dealer Floorplan Enablement,6,1,5.7,72.8,2,50.1,24,Green,1,8,0.2015,False
+INIT-1246,Maserati,Controls,QBR Governance Automation,8,5,14.4,91.6,1,75.3,23,Amber,1,15,0.6334,False
+INIT-1247,Maserati,Controls,CIB/Private Bank Cross-Sell,6,4,6.4,66.4,0,88.4,33,Green,0,0,0.0134,False
+INIT-1248,Subaru,Marketing,CIB/Private Bank Cross-Sell,3,5,7.7,79.0,1,78.1,13,Green,0,0,0.179,False
+INIT-1249,Subaru,Finance,Residual Risk Corridor,6,1,10.5,81.4,1,67.6,29,Green,0,0,0.0962,False
+INIT-1250,Rivian,Product,DTC Credit API Integration,2,3,2.3,75.6,0,64.0,26,Green,0,0,0.0058,False
+INIT-1251,Rivian,Technology,Residual Risk Corridor,4,2,8.5,97.2,2,60.7,37,Amber,0,0,0.2979,False
+INIT-1252,Rivian,Finance,Dealer Floorplan Enablement,3,2,3.9,77.5,0,67.1,26,Green,0,0,0.0092,False
+INIT-1253,Aston Martin,Controls,DTC Credit API Integration,2,5,7.9,75.4,1,77.8,50,Green,0,0,0.0289,False
+INIT-1254,Subaru,Risk,Residual Risk Corridor,5,5,14.7,71.8,2,51.9,5,Green,1,11,0.8507,True
+INIT-1255,Jaguar Land Rover,Finance,CIB/Private Bank Cross-Sell,5,5,3.3,69.6,0,63.1,50,Green,0,0,0.0447,False
+INIT-1256,Rivian,Technology,QBR Governance Automation,8,1,6.4,94.3,1,75.2,49,Green,0,0,0.1442,False
+INIT-1257,Jaguar Land Rover,Legal,QBR Governance Automation,1,2,14.4,75.3,0,69.8,52,Green,0,0,0.0084,False
+INIT-1258,Rivian,Marketing,EV Promo Launch,8,2,1.0,62.6,0,75.4,27,Green,0,0,0.0176,False
+INIT-1259,Jaguar Land Rover,Finance,CIB/Private Bank Cross-Sell,5,3,3.7,88.3,0,82.9,41,Green,0,0,0.0164,False
+INIT-1260,Jaguar Land Rover,Risk,QBR Governance Automation,7,5,10.5,76.6,1,71.8,38,Green,0,0,0.4147,False
+INIT-1261,Tesla,Controls,CIB/Private Bank Cross-Sell,2,3,5.5,80.1,0,60.4,10,Green,0,0,0.0359,False
+INIT-1262,Jaguar Land Rover,Product,QBR Governance Automation,4,2,11.4,62.8,3,65.3,52,Green,0,0,0.1235,False
+INIT-1263,McLaren,Controls,EV Promo Launch,4,4,11.1,68.0,0,85.2,7,Green,0,0,0.0145,False
+INIT-1264,Tesla,Risk,EV Promo Launch,2,5,6.1,82.7,0,61.4,33,Green,0,0,0.0894,False
+INIT-1265,Maserati,Compliance,Dealer Floorplan Enablement,3,4,13.8,69.7,2,64.1,42,Green,0,0,0.2036,False
+INIT-1266,Tesla,Finance,Residual Risk Corridor,5,3,9.6,84.9,2,92.7,38,Green,0,0,0.1165,False
+INIT-1267,Rivian,Risk,Dealer Floorplan Enablement,2,4,11.1,90.8,0,75.8,15,Green,0,0,0.1067,False
+INIT-1268,Rivian,Compliance,Dealer Floorplan Enablement,4,2,10.7,68.6,1,78.6,59,Green,0,0,0.0272,False
+INIT-1269,Tesla,Controls,Residual Risk Corridor,4,5,11.8,66.2,1,88.0,11,Green,0,0,0.0612,False
+INIT-1270,Tesla,Marketing,EV Promo Launch,8,2,3.3,73.0,1,67.7,15,Green,0,0,0.1838,False
+INIT-1271,Jaguar Land Rover,Risk,DTC Credit API Integration,2,3,11.7,65.6,0,75.0,5,Green,0,0,0.0089,False
+INIT-1272,Jaguar Land Rover,Technology,QBR Governance Automation,6,1,11.6,97.6,1,69.3,28,Green,1,5,0.1565,False
+INIT-1273,Jaguar Land Rover,Marketing,DTC Credit API Integration,8,3,6.8,70.0,1,66.9,7,Green,0,0,0.188,False
+INIT-1274,Tesla,Finance,DTC Credit API Integration,3,5,7.3,68.1,1,73.6,10,Green,0,0,0.0466,False
+INIT-1275,Subaru,Operations,Residual Risk Corridor,5,3,2.5,62.9,0,89.8,24,Green,0,0,0.0012,False
+INIT-1276,Rivian,Operations,DTC Credit API Integration,6,1,1.0,79.4,1,67.7,60,Green,0,0,0.0092,False
+INIT-1277,Rivian,Legal,CIB/Private Bank Cross-Sell,7,1,10.5,81.6,1,68.9,58,Green,0,0,0.2624,False
+INIT-1278,Tesla,Technology,EV Promo Launch,3,2,6.5,78.0,1,81.3,10,Green,0,0,0.0126,False
+INIT-1279,Rivian,Compliance,EV Promo Launch,5,5,9.3,73.1,0,86.3,14,Green,0,0,0.0287,False
+INIT-1280,Jaguar Land Rover,Operations,Dealer Floorplan Enablement,2,4,6.0,51.2,0,93.5,44,Green,0,0,0.0004,False
+INIT-1281,Tesla,Product,QBR Governance Automation,5,5,1.4,70.3,1,79.7,13,Green,0,0,0.046,False
+INIT-1282,Jaguar Land Rover,Legal,DTC Credit API Integration,7,5,14.3,90.7,1,55.6,7,Green,1,18,0.7802,True
+INIT-1283,Subaru,Risk,DTC Credit API Integration,3,2,10.2,97.2,0,80.3,54,Green,0,0,0.0295,False
+INIT-1284,Rivian,Controls,DTC Credit API Integration,4,2,1.0,52.5,0,80.8,27,Green,0,0,0.0005,False
+INIT-1285,Jaguar Land Rover,Legal,CIB/Private Bank Cross-Sell,4,3,8.1,78.3,0,88.7,49,Green,0,0,0.0107,False
+INIT-1286,Tesla,Compliance,DTC Credit API Integration,5,4,10.9,71.0,2,56.9,14,Green,0,0,0.4617,False
+INIT-1287,Maserati,Technology,Residual Risk Corridor,1,5,9.3,70.1,0,88.8,40,Green,0,0,0.0033,False
+INIT-1288,Tesla,Compliance,CIB/Private Bank Cross-Sell,7,3,16.2,77.3,1,65.6,41,Red,1,12,0.7489,False
+INIT-1289,Subaru,Legal,CIB/Private Bank Cross-Sell,6,1,9.7,72.4,2,75.7,53,Green,0,0,0.1301,False
+INIT-1290,Subaru,Finance,Dealer Floorplan Enablement,5,2,4.7,70.4,5,72.0,55,Green,0,0,0.2966,False
+INIT-1291,Tesla,Risk,QBR Governance Automation,8,2,6.8,81.3,2,72.2,15,Green,1,7,0.516,False
+INIT-1292,Subaru,Product,CIB/Private Bank Cross-Sell,1,3,5.1,67.3,1,69.1,41,Green,0,0,0.0127,False
+INIT-1293,Rivian,Legal,EV Promo Launch,2,4,7.6,77.1,2,64.7,15,Green,0,0,0.0847,False
+INIT-1294,Subaru,Technology,Dealer Floorplan Enablement,5,5,9.0,82.5,1,76.4,30,Green,0,0,0.2042,False
+INIT-1295,Jaguar Land Rover,Marketing,EV Promo Launch,6,1,8.6,67.7,0,60.5,44,Green,0,0,0.0331,False
+INIT-1296,Tesla,Technology,DTC Credit API Integration,1,1,6.8,80.4,0,65.5,10,Green,0,0,0.0051,False
+INIT-1297,Jaguar Land Rover,Marketing,EV Promo Launch,6,2,2.0,99.9,3,68.1,9,Green,0,0,0.3345,False
+INIT-1298,Aston Martin,Operations,Residual Risk Corridor,6,1,6.1,87.1,0,64.0,51,Green,0,0,0.0363,False
+INIT-1299,Subaru,Legal,EV Promo Launch,7,1,12.9,70.0,0,68.6,12,Green,0,0,0.0538,False
+INIT-1300,Rivian,Compliance,CIB/Private Bank Cross-Sell,5,1,11.8,84.7,5,59.0,17,Amber,1,17,0.8852,False
+INIT-1301,Subaru,Risk,QBR Governance Automation,5,4,19.2,75.3,0,72.4,12,Green,1,4,0.388,False
+INIT-1302,Subaru,Legal,EV Promo Launch,7,5,7.6,83.0,1,65.5,17,Green,0,0,0.3658,False
+INIT-1303,Tesla,Legal,EV Promo Launch,2,3,12.3,86.1,0,78.9,58,Green,0,0,0.0266,False
+INIT-1304,Rivian,Legal,EV Promo Launch,8,3,12.7,89.7,3,66.2,58,Amber,1,13,0.8602,False
+INIT-1305,Jaguar Land Rover,Technology,DTC Credit API Integration,1,1,5.4,77.3,0,63.7,8,Green,0,0,0.0015,False
+INIT-1306,Subaru,Controls,QBR Governance Automation,3,1,12.4,62.4,1,68.7,35,Green,0,0,0.0121,False
+INIT-1307,Rivian,Finance,QBR Governance Automation,1,4,8.0,81.8,0,71.1,41,Green,0,0,0.0135,False
+INIT-1308,Rivian,Risk,EV Promo Launch,2,3,11.0,62.2,0,96.1,17,Green,0,0,0.0033,False
+INIT-1309,Rivian,Technology,QBR Governance Automation,4,1,6.6,75.0,0,81.5,5,Green,0,0,0.0045,False
+INIT-1310,Jaguar Land Rover,Compliance,EV Promo Launch,1,5,9.4,84.5,1,80.7,14,Green,0,0,0.0162,False
+INIT-1311,Rivian,Operations,DTC Credit API Integration,1,5,7.1,67.9,0,83.9,28,Green,0,0,0.002,False
+INIT-1312,Rivian,Product,DTC Credit API Integration,1,5,4.3,82.1,0,90.8,14,Green,0,0,0.0036,False
+INIT-1313,Rivian,Controls,QBR Governance Automation,5,1,7.4,82.7,0,75.6,23,Green,0,0,0.0121,False
+INIT-1314,Jaguar Land Rover,Finance,Dealer Floorplan Enablement,3,2,5.3,55.0,0,84.6,15,Green,0,0,0.0008,False
+INIT-1315,Rivian,Technology,CIB/Private Bank Cross-Sell,6,1,12.7,77.1,2,65.3,42,Green,0,0,0.4259,False
+INIT-1316,Tesla,Controls,Residual Risk Corridor,1,5,7.1,85.4,0,75.4,45,Green,0,0,0.0187,False
+INIT-1317,Rivian,Controls,DTC Credit API Integration,8,1,18.9,84.2,1,63.4,20,Amber,0,0,0.5702,False
+INIT-1318,Tesla,Finance,EV Promo Launch,4,4,9.3,76.1,2,54.5,8,Green,0,0,0.4145,False
+INIT-1319,Aston Martin,Operations,Residual Risk Corridor,5,3,6.2,69.9,1,72.2,55,Green,0,0,0.0313,False
+INIT-1320,Tesla,Technology,CIB/Private Bank Cross-Sell,5,1,10.1,73.1,2,84.2,20,Green,0,0,0.1079,False
+INIT-1321,Rivian,Finance,Residual Risk Corridor,2,2,3.6,78.8,2,65.9,34,Green,0,0,0.0211,False
+INIT-1322,Tesla,Legal,CIB/Private Bank Cross-Sell,8,2,11.0,77.3,1,64.1,6,Green,1,3,0.6144,False
+INIT-1323,Jaguar Land Rover,Risk,Dealer Floorplan Enablement,7,2,4.6,60.3,1,67.0,22,Green,0,0,0.054,False
+INIT-1324,Maserati,Legal,QBR Governance Automation,1,1,11.5,100.5,1,73.5,45,Green,0,0,0.0205,False
+INIT-1325,Rivian,Operations,Residual Risk Corridor,3,4,3.5,65.4,0,81.4,59,Green,0,0,0.0019,False
+INIT-1326,Aston Martin,Controls,QBR Governance Automation,2,5,11.6,69.4,1,61.3,35,Green,0,0,0.1313,False
+INIT-1327,Rivian,Operations,DTC Credit API Integration,5,5,1.0,53.7,0,72.8,4,Green,0,0,0.0037,False
+INIT-1328,Rivian,Controls,QBR Governance Automation,8,3,12.9,78.1,2,94.3,28,Green,0,0,0.2385,False
+INIT-1329,McLaren,Finance,CIB/Private Bank Cross-Sell,6,1,11.0,73.9,2,63.1,60,Green,0,0,0.3559,False
+INIT-1330,Aston Martin,Finance,EV Promo Launch,5,2,6.7,73.5,0,73.0,25,Green,0,0,0.0178,False
+INIT-1331,Tesla,Finance,EV Promo Launch,4,1,12.7,86.7,0,68.1,13,Green,0,0,0.0565,False
+INIT-1332,Maserati,Operations,CIB/Private Bank Cross-Sell,5,5,1.5,62.2,1,91.1,13,Green,0,0,0.0063,False
+INIT-1333,Jaguar Land Rover,Legal,DTC Credit API Integration,3,1,14.0,84.6,0,81.5,33,Green,0,0,0.0078,False
+INIT-1334,Subaru,Product,CIB/Private Bank Cross-Sell,1,5,8.3,89.7,2,74.8,16,Green,0,0,0.2046,False
+INIT-1335,Rivian,Compliance,QBR Governance Automation,4,2,11.8,95.3,0,83.2,22,Green,0,0,0.0354,False
+INIT-1336,Subaru,Product,Residual Risk Corridor,5,4,7.5,63.7,1,70.9,26,Green,0,0,0.0611,False
+INIT-1337,Subaru,Compliance,Residual Risk Corridor,1,2,14.4,82.3,0,80.0,6,Green,0,0,0.009,False
+INIT-1338,Tesla,Controls,QBR Governance Automation,7,1,8.0,59.0,0,90.1,24,Green,0,0,0.0059,False
+INIT-1339,Maserati,Product,QBR Governance Automation,5,3,9.7,82.2,0,64.0,43,Green,0,0,0.0739,False
+INIT-1340,Rivian,Legal,QBR Governance Automation,4,4,11.6,76.2,1,66.7,15,Green,0,0,0.1788,False
+INIT-1341,Rivian,Risk,Residual Risk Corridor,5,2,12.8,57.6,2,72.7,7,Green,0,0,0.1609,False
+INIT-1342,Tesla,Operations,Dealer Floorplan Enablement,3,2,5.5,94.6,1,60.1,55,Green,0,0,0.0696,False
+INIT-1343,Tesla,Compliance,CIB/Private Bank Cross-Sell,2,5,10.9,70.7,0,79.1,27,Green,0,0,0.0489,False
+INIT-1344,Tesla,Compliance,Residual Risk Corridor,3,2,11.3,77.3,0,94.3,52,Green,0,0,0.0062,False
+INIT-1345,Subaru,Product,Dealer Floorplan Enablement,8,2,11.3,83.4,0,98.4,22,Green,0,0,0.0595,False
+INIT-1346,Rivian,Risk,DTC Credit API Integration,7,1,17.2,61.3,1,79.8,17,Amber,1,8,0.156,False
+INIT-1347,Rivian,Product,CIB/Private Bank Cross-Sell,1,3,1.0,88.3,1,75.0,5,Green,0,0,0.0157,False
+INIT-1348,Rivian,Finance,Dealer Floorplan Enablement,6,5,6.3,102.3,4,69.6,37,Amber,1,13,0.912,False
+INIT-1349,Subaru,Technology,Dealer Floorplan Enablement,7,5,3.5,106.0,4,54.7,58,Red,1,21,0.9582,False
+INIT-1350,Rivian,Product,DTC Credit API Integration,4,1,6.6,75.2,0,67.8,15,Green,0,0,0.01,False
+INIT-1351,Tesla,Compliance,QBR Governance Automation,1,4,5.9,78.1,0,60.4,33,Green,0,0,0.0195,False
+INIT-1352,Maserati,Compliance,EV Promo Launch,2,5,6.6,101.7,0,78.5,28,Green,0,0,0.0195,False
+INIT-1353,Jaguar Land Rover,Finance,DTC Credit API Integration,6,4,3.1,81.2,2,81.2,57,Green,0,0,0.0454,False
+INIT-1354,McLaren,Product,EV Promo Launch,4,5,3.0,69.6,0,66.4,15,Green,0,0,0.0268,False
+INIT-1355,Subaru,Marketing,EV Promo Launch,2,4,3.8,75.9,0,74.7,22,Green,0,0,0.0093,False
+INIT-1356,Rivian,Risk,DTC Credit API Integration,2,1,7.0,67.7,0,80.0,6,Green,0,0,0.0023,False
+INIT-1357,Maserati,Legal,DTC Credit API Integration,7,5,10.2,94.6,0,80.0,36,Green,0,0,0.1833,False
+INIT-1358,Tesla,Legal,Dealer Floorplan Enablement,7,5,9.3,78.9,1,86.4,24,Green,0,0,0.3421,False
+INIT-1359,Maserati,Technology,CIB/Private Bank Cross-Sell,5,4,17.5,81.6,1,66.0,31,Green,1,9,0.597,False
+INIT-1360,Subaru,Finance,CIB/Private Bank Cross-Sell,5,4,5.9,62.7,1,68.5,34,Green,0,0,0.0738,False
+INIT-1361,Rivian,Controls,Residual Risk Corridor,5,2,10.4,89.1,1,59.7,16,Green,0,0,0.2006,False
+INIT-1362,Rivian,Legal,QBR Governance Automation,5,2,12.0,77.1,1,55.8,52,Green,0,0,0.2191,False
+INIT-1363,McLaren,Legal,CIB/Private Bank Cross-Sell,4,2,16.2,72.1,0,89.9,4,Green,0,0,0.044,False
+INIT-1364,Rivian,Compliance,QBR Governance Automation,2,1,5.7,65.3,1,69.6,52,Green,0,0,0.0035,False
+INIT-1365,Maserati,Product,QBR Governance Automation,5,4,6.0,76.8,0,78.4,21,Green,0,0,0.0208,False
+INIT-1366,Jaguar Land Rover,Risk,Residual Risk Corridor,5,4,7.2,77.2,2,77.6,50,Green,0,0,0.1415,False
+INIT-1367,Rivian,Finance,Residual Risk Corridor,5,5,7.2,80.8,0,67.3,35,Green,1,1,0.1068,False
+INIT-1368,Jaguar Land Rover,Compliance,CIB/Private Bank Cross-Sell,6,5,10.6,74.2,1,71.7,44,Green,0,0,0.2802,False
+INIT-1369,Jaguar Land Rover,Risk,Residual Risk Corridor,4,4,6.9,85.1,0,63.8,9,Green,0,0,0.0792,False
+INIT-1370,Tesla,Operations,EV Promo Launch,7,5,4.7,82.7,3,50.1,15,Amber,1,15,0.789,False
+INIT-1371,Tesla,Marketing,EV Promo Launch,6,5,1.0,62.7,1,62.4,19,Green,1,2,0.1594,False
+INIT-1372,Jaguar Land Rover,Operations,DTC Credit API Integration,5,1,10.0,68.9,0,67.2,59,Green,0,0,0.0051,False
+INIT-1373,Jaguar Land Rover,Product,DTC Credit API Integration,2,1,2.1,85.5,0,63.6,25,Green,0,0,0.0023,False
+INIT-1374,Rivian,Operations,EV Promo Launch,7,2,1.1,75.2,0,98.0,44,Green,0,0,0.0014,False
+INIT-1375,Rivian,Controls,QBR Governance Automation,7,3,7.5,62.2,1,69.7,17,Green,0,0,0.0705,False
+INIT-1376,Tesla,Legal,QBR Governance Automation,5,1,7.0,86.0,0,83.8,58,Green,0,0,0.0141,False
+INIT-1377,Tesla,Risk,Residual Risk Corridor,3,3,10.6,91.2,1,82.2,55,Green,0,0,0.1333,False
+INIT-1378,Rivian,Operations,CIB/Private Bank Cross-Sell,2,3,3.3,86.4,1,84.0,55,Green,0,0,0.008,False
+INIT-1379,Maserati,Controls,Dealer Floorplan Enablement,4,3,7.7,78.3,2,63.3,18,Green,0,0,0.1122,False
+INIT-1380,Aston Martin,Legal,DTC Credit API Integration,3,5,9.7,68.4,2,59.7,15,Green,0,0,0.2846,False
+INIT-1381,Subaru,Legal,Dealer Floorplan Enablement,8,5,11.5,75.0,1,75.4,14,Green,1,4,0.5252,False
+INIT-1382,Rivian,Legal,Residual Risk Corridor,3,2,14.3,67.1,0,66.7,20,Green,0,0,0.029,False
+INIT-1383,Tesla,Technology,Residual Risk Corridor,1,4,6.4,71.0,0,84.1,47,Green,0,0,0.0041,False
+INIT-1384,Subaru,Technology,QBR Governance Automation,4,2,10.0,75.9,0,79.3,42,Green,0,0,0.0113,False
+INIT-1385,Maserati,Risk,Residual Risk Corridor,5,2,12.6,74.1,2,56.8,22,Green,0,0,0.3905,False
+INIT-1386,Rivian,Operations,QBR Governance Automation,5,4,5.5,80.4,1,77.8,49,Green,0,0,0.0348,False
+INIT-1387,Subaru,Technology,Dealer Floorplan Enablement,6,1,7.9,87.1,0,75.3,28,Green,0,0,0.0357,False
+INIT-1388,Subaru,Product,Residual Risk Corridor,1,3,4.9,78.7,0,75.1,7,Green,0,0,0.004,False
+INIT-1389,Rivian,Risk,QBR Governance Automation,2,3,12.3,86.6,0,74.8,34,Green,0,0,0.0554,False
+INIT-1390,Rivian,Compliance,DTC Credit API Integration,6,3,12.3,68.1,1,52.6,44,Amber,0,0,0.2749,False
+INIT-1391,McLaren,Risk,DTC Credit API Integration,6,2,8.0,73.3,3,62.2,60,Amber,1,7,0.4559,False
+INIT-1392,Maserati,Marketing,Dealer Floorplan Enablement,6,1,4.7,68.8,1,56.6,60,Green,0,0,0.076,False
+INIT-1393,Rivian,Technology,QBR Governance Automation,1,1,6.0,108.2,0,78.8,54,Green,0,0,0.0061,False
+INIT-1394,Subaru,Marketing,Dealer Floorplan Enablement,2,1,6.3,70.3,0,68.7,17,Green,0,0,0.0074,False
+INIT-1395,Jaguar Land Rover,Controls,EV Promo Launch,2,1,11.3,66.0,1,71.7,42,Green,0,0,0.0036,False
+INIT-1396,Tesla,Product,QBR Governance Automation,6,4,3.0,82.2,0,66.5,43,Green,0,0,0.1015,False
+INIT-1397,Tesla,Risk,CIB/Private Bank Cross-Sell,2,3,20.6,81.4,2,69.8,25,Green,1,6,0.7791,True
+INIT-1398,Tesla,Product,Dealer Floorplan Enablement,3,2,3.3,71.3,0,88.0,42,Green,0,0,0.0031,False
+INIT-1399,McLaren,Risk,QBR Governance Automation,3,3,8.8,81.6,1,71.7,58,Green,0,0,0.0914,False
+INIT-1400,Subaru,Risk,Dealer Floorplan Enablement,5,5,6.7,69.0,1,76.2,32,Green,0,0,0.1398,False
+INIT-1401,Subaru,Controls,QBR Governance Automation,1,5,16.5,77.7,1,69.2,24,Green,1,4,0.1151,False
+INIT-1402,Tesla,Compliance,EV Promo Launch,2,1,15.1,67.9,0,61.2,13,Green,0,0,0.0214,False
+INIT-1403,Rivian,Product,DTC Credit API Integration,6,1,9.9,74.9,0,84.0,60,Green,0,0,0.0139,False
+INIT-1404,Jaguar Land Rover,Risk,CIB/Private Bank Cross-Sell,8,4,9.1,76.6,4,76.6,55,Amber,1,16,0.8789,False
+INIT-1405,Tesla,Technology,EV Promo Launch,6,2,11.4,99.9,1,82.5,51,Green,0,0,0.2141,False
+INIT-1406,Tesla,Marketing,EV Promo Launch,7,3,6.6,78.4,0,65.9,8,Green,0,0,0.2239,False
+INIT-1407,Subaru,Compliance,Residual Risk Corridor,8,4,12.6,70.5,0,73.6,33,Green,1,0,0.1855,False
+INIT-1408,McLaren,Technology,DTC Credit API Integration,6,3,12.1,104.1,3,53.9,26,Amber,1,15,0.9223,False
+INIT-1409,Tesla,Technology,Residual Risk Corridor,5,1,5.0,90.7,1,68.0,13,Green,0,0,0.0701,False
+INIT-1410,Rivian,Compliance,DTC Credit API Integration,2,3,2.9,87.6,0,71.8,50,Green,0,0,0.0049,False
+INIT-1411,Subaru,Operations,DTC Credit API Integration,5,2,1.0,67.6,0,76.7,41,Green,0,0,0.0012,False
+INIT-1412,Subaru,Finance,Dealer Floorplan Enablement,5,1,5.1,91.2,2,67.9,47,Green,0,0,0.1029,False
+INIT-1413,Subaru,Legal,DTC Credit API Integration,2,4,10.6,81.0,0,75.5,18,Green,0,0,0.0178,False
+INIT-1414,Jaguar Land Rover,Compliance,DTC Credit API Integration,3,3,11.3,60.1,0,67.6,20,Green,0,0,0.0069,False
+INIT-1415,Aston Martin,Risk,EV Promo Launch,3,4,5.7,96.3,0,79.2,36,Green,0,0,0.0576,False
+INIT-1416,Rivian,Legal,QBR Governance Automation,6,5,4.0,91.5,1,66.3,45,Green,1,4,0.2855,False
+INIT-1417,Jaguar Land Rover,Risk,DTC Credit API Integration,5,2,9.8,60.4,0,69.2,23,Green,0,0,0.0152,False
+INIT-1418,Rivian,Legal,QBR Governance Automation,6,1,11.6,73.6,2,73.0,56,Green,0,0,0.1391,False
+INIT-1419,Rivian,Compliance,EV Promo Launch,6,2,16.7,88.5,2,64.1,34,Green,0,0,0.6223,False
+INIT-1420,Subaru,Legal,EV Promo Launch,7,2,9.3,74.6,2,70.6,4,Green,0,0,0.1866,False
+INIT-1421,Aston Martin,Controls,EV Promo Launch,7,3,7.5,65.8,1,68.3,5,Green,0,0,0.1078,False
+INIT-1422,Subaru,Legal,DTC Credit API Integration,7,3,11.3,77.3,0,88.9,17,Green,0,0,0.0393,False
+INIT-1423,Subaru,Compliance,QBR Governance Automation,2,4,12.0,82.4,2,56.2,8,Green,0,0,0.2821,False
+INIT-1424,Jaguar Land Rover,Operations,Dealer Floorplan Enablement,6,2,5.4,60.1,1,77.3,27,Green,0,0,0.007,False
+INIT-1425,Tesla,Finance,DTC Credit API Integration,1,3,2.0,66.5,0,56.6,60,Green,0,0,0.0037,False
+INIT-1426,Rivian,Legal,EV Promo Launch,4,4,10.6,94.8,0,67.3,53,Green,0,0,0.1347,False
+INIT-1427,Subaru,Operations,CIB/Private Bank Cross-Sell,8,5,5.1,71.1,0,79.4,17,Green,0,0,0.0794,False
+INIT-1428,Jaguar Land Rover,Marketing,CIB/Private Bank Cross-Sell,5,2,4.5,74.2,1,75.2,21,Green,0,0,0.0476,False
+INIT-1429,Tesla,Finance,Dealer Floorplan Enablement,6,4,4.8,87.1,2,72.5,49,Green,1,3,0.3911,False
+INIT-1430,Rivian,Marketing,Dealer Floorplan Enablement,1,2,3.5,99.1,0,66.8,56,Green,0,0,0.023,False
+INIT-1431,Maserati,Compliance,CIB/Private Bank Cross-Sell,8,2,9.4,60.1,1,79.7,41,Green,0,0,0.0629,False
+INIT-1432,Rivian,Risk,Dealer Floorplan Enablement,6,3,11.4,74.9,0,87.5,35,Green,0,0,0.0869,False
+INIT-1433,Maserati,Technology,Dealer Floorplan Enablement,6,5,2.9,73.3,0,74.8,55,Green,0,0,0.0292,False
+INIT-1434,Rivian,Technology,DTC Credit API Integration,6,4,6.2,103.2,1,85.4,35,Green,0,0,0.1492,False
+INIT-1435,Tesla,Legal,Residual Risk Corridor,3,3,12.7,90.7,0,58.3,60,Green,0,0,0.1929,False
+INIT-1436,Tesla,Operations,EV Promo Launch,6,3,10.0,79.6,0,85.0,29,Green,0,0,0.0285,False
+INIT-1437,Rivian,Legal,EV Promo Launch,1,3,12.0,87.5,0,81.3,37,Green,0,0,0.0114,False
+INIT-1438,Rivian,Risk,CIB/Private Bank Cross-Sell,6,1,1.0,80.1,0,80.0,23,Green,1,0,0.0183,False
+INIT-1439,Rivian,Operations,DTC Credit API Integration,4,3,7.2,67.2,0,71.7,52,Green,0,0,0.0059,False
+INIT-1440,Jaguar Land Rover,Controls,Residual Risk Corridor,2,3,8.1,83.6,1,57.1,54,Green,0,0,0.0322,False
+INIT-1441,Tesla,Controls,CIB/Private Bank Cross-Sell,4,3,11.4,88.4,1,82.5,13,Green,0,0,0.1725,False
+INIT-1442,Rivian,Controls,EV Promo Launch,4,3,8.6,80.3,1,62.2,44,Green,0,0,0.0716,False
+INIT-1443,Rivian,Finance,EV Promo Launch,3,3,11.8,50.0,2,59.0,56,Green,0,0,0.0586,False
+INIT-1444,Tesla,Risk,DTC Credit API Integration,4,4,7.8,87.4,0,66.3,37,Green,0,0,0.1554,False
+INIT-1445,Tesla,Product,DTC Credit API Integration,5,1,1.0,65.5,1,86.2,24,Green,0,0,0.0034,False
+INIT-1446,Rivian,Finance,CIB/Private Bank Cross-Sell,4,5,6.3,68.8,0,73.9,8,Green,0,0,0.0489,False
+INIT-1447,Jaguar Land Rover,Product,DTC Credit API Integration,4,4,2.7,78.8,0,67.5,4,Green,0,0,0.0125,False
+INIT-1448,Jaguar Land Rover,Technology,DTC Credit API Integration,6,5,11.3,101.7,2,43.0,11,Red,1,18,0.9109,False
+INIT-1449,Rivian,Operations,DTC Credit API Integration,2,5,2.5,97.4,1,64.7,14,Green,0,0,0.0388,False
+INIT-1450,Subaru,Marketing,Dealer Floorplan Enablement,1,3,2.6,91.3,0,77.3,15,Green,0,0,0.0099,False
+INIT-1451,Rivian,Operations,EV Promo Launch,1,2,6.0,87.5,0,59.2,17,Green,0,0,0.0056,False
+INIT-1452,Subaru,Marketing,Residual Risk Corridor,3,3,1.9,84.6,2,61.1,6,Green,0,0,0.1162,False
+INIT-1453,Aston Martin,Operations,QBR Governance Automation,1,3,1.0,67.1,1,74.7,4,Green,0,0,0.002,False
+INIT-1454,Rivian,Product,EV Promo Launch,1,4,5.0,74.5,0,55.8,8,Green,0,0,0.0156,False
+INIT-1455,McLaren,Finance,CIB/Private Bank Cross-Sell,4,4,5.6,76.7,0,75.3,39,Green,0,0,0.0403,False
+INIT-1456,Jaguar Land Rover,Marketing,EV Promo Launch,5,2,1.0,88.4,1,59.0,33,Green,0,0,0.0543,False
+INIT-1457,Jaguar Land Rover,Operations,Dealer Floorplan Enablement,2,3,6.6,112.3,0,85.5,42,Green,0,0,0.0091,False
+INIT-1458,Aston Martin,Legal,QBR Governance Automation,7,1,15.6,80.4,1,69.4,30,Green,0,0,0.3928,False
+INIT-1459,Rivian,Controls,EV Promo Launch,2,5,9.1,73.8,0,68.3,32,Green,0,0,0.0205,False
+INIT-1460,Subaru,Marketing,CIB/Private Bank Cross-Sell,3,5,10.8,85.0,0,48.0,16,Green,1,1,0.5975,False
+INIT-1461,Subaru,Technology,Residual Risk Corridor,6,1,7.1,80.9,1,77.4,42,Green,0,0,0.0305,False
+INIT-1462,Rivian,Finance,DTC Credit API Integration,6,3,4.6,71.2,3,65.1,40,Green,0,0,0.2024,False
+INIT-1463,Jaguar Land Rover,Legal,CIB/Private Bank Cross-Sell,2,2,9.0,69.9,1,79.3,52,Green,0,0,0.0087,False
+INIT-1464,Jaguar Land Rover,Product,Dealer Floorplan Enablement,5,2,1.3,54.6,1,58.0,28,Green,0,0,0.0115,False
+INIT-1465,Subaru,Finance,DTC Credit API Integration,2,4,3.3,59.6,0,75.6,13,Green,0,0,0.0016,False
+INIT-1466,Tesla,Product,CIB/Private Bank Cross-Sell,5,4,4.5,75.6,2,79.9,33,Green,0,0,0.2186,False
+INIT-1467,Maserati,Legal,Dealer Floorplan Enablement,2,4,12.6,84.1,0,76.8,21,Green,0,0,0.0338,False
+INIT-1468,Tesla,Technology,EV Promo Launch,3,5,9.1,69.8,0,66.6,56,Green,0,0,0.0483,False
+INIT-1469,Jaguar Land Rover,Legal,Residual Risk Corridor,2,3,11.4,70.5,0,80.0,41,Green,0,0,0.0051,False
+INIT-1470,Subaru,Finance,Residual Risk Corridor,2,2,8.3,60.4,1,64.8,52,Green,0,0,0.008,False
+INIT-1471,Rivian,Technology,CIB/Private Bank Cross-Sell,8,2,8.7,86.3,2,75.8,51,Green,0,0,0.5121,False
+INIT-1472,Tesla,Finance,QBR Governance Automation,1,1,7.6,64.9,0,76.9,47,Green,0,0,0.0015,False
+INIT-1473,Tesla,Legal,DTC Credit API Integration,2,1,11.1,62.2,1,83.3,22,Green,0,0,0.0049,False
+INIT-1474,Tesla,Marketing,Residual Risk Corridor,4,3,10.0,84.4,0,70.0,44,Green,0,0,0.1525,False
+INIT-1475,Tesla,Technology,Dealer Floorplan Enablement,2,5,7.7,76.9,0,93.0,21,Green,0,0,0.0133,False
+INIT-1476,Rivian,Controls,DTC Credit API Integration,4,2,6.3,77.1,1,91.1,31,Green,0,0,0.005,False
+INIT-1477,Tesla,Legal,Residual Risk Corridor,5,3,11.3,72.1,1,68.8,27,Green,0,0,0.172,False
+INIT-1478,Rivian,Risk,Dealer Floorplan Enablement,7,2,12.7,50.0,2,74.1,59,Green,0,0,0.2483,False
+INIT-1479,Tesla,Finance,QBR Governance Automation,5,4,1.9,83.0,0,78.5,51,Green,0,0,0.0228,False
+INIT-1480,Jaguar Land Rover,Operations,Dealer Floorplan Enablement,3,5,3.8,83.1,0,72.9,58,Green,0,0,0.0095,False
+INIT-1481,Rivian,Risk,EV Promo Launch,4,2,10.9,80.8,0,61.1,35,Green,1,2,0.088,False
+INIT-1482,Tesla,Product,DTC Credit API Integration,3,3,10.9,82.2,0,67.6,23,Green,0,0,0.0637,False
+INIT-1483,Rivian,Finance,Dealer Floorplan Enablement,8,2,3.2,72.9,2,76.4,22,Green,0,0,0.1211,False
+INIT-1484,Tesla,Risk,EV Promo Launch,3,1,12.7,60.3,0,69.1,59,Green,0,0,0.0171,False
+INIT-1485,Rivian,Marketing,CIB/Private Bank Cross-Sell,6,2,1.0,94.5,0,65.2,45,Green,0,0,0.1375,False
+INIT-1486,Aston Martin,Marketing,EV Promo Launch,6,1,8.0,69.2,0,75.8,59,Green,0,0,0.0316,False
+INIT-1487,Tesla,Technology,DTC Credit API Integration,6,2,5.4,83.4,2,77.0,7,Green,0,0,0.1153,False
+INIT-1488,Jaguar Land Rover,Legal,QBR Governance Automation,1,5,9.6,92.9,1,71.7,43,Green,0,0,0.0557,False
+INIT-1489,Tesla,Legal,CIB/Private Bank Cross-Sell,1,5,12.8,93.7,0,67.8,6,Green,1,1,0.2626,False
+INIT-1490,Rivian,Product,Residual Risk Corridor,2,2,7.1,75.0,0,96.8,23,Green,0,0,0.0015,False
+INIT-1491,Rivian,Product,Dealer Floorplan Enablement,4,5,5.6,68.2,0,72.6,11,Green,0,0,0.0405,False
+INIT-1492,Rivian,Operations,Dealer Floorplan Enablement,5,4,8.5,97.8,1,68.4,59,Green,0,0,0.2555,False
+INIT-1493,Rivian,Compliance,QBR Governance Automation,6,1,9.4,95.8,2,67.8,33,Green,1,5,0.2881,False
+INIT-1494,Jaguar Land Rover,Controls,Residual Risk Corridor,7,3,10.3,83.5,1,70.9,51,Green,0,0,0.1502,False
+INIT-1495,Aston Martin,Controls,EV Promo Launch,8,1,6.6,78.0,2,69.4,31,Green,1,4,0.1841,False
+INIT-1496,Subaru,Operations,QBR Governance Automation,3,2,1.0,77.4,0,90.5,14,Green,0,0,0.0005,False
+INIT-1497,Jaguar Land Rover,Finance,Dealer Floorplan Enablement,3,4,13.6,86.7,1,63.6,29,Green,0,0,0.2261,False
+INIT-1498,Jaguar Land Rover,Risk,CIB/Private Bank Cross-Sell,7,4,7.4,77.0,2,59.3,58,Amber,1,11,0.6937,False
+INIT-1499,Rivian,Compliance,EV Promo Launch,4,3,12.0,84.8,0,84.4,6,Green,0,0,0.0266,False
+INIT-1500,Tesla,Controls,EV Promo Launch,5,1,7.5,66.8,1,70.4,18,Green,0,0,0.0192,False
+INIT-1501,Rivian,Operations,DTC Credit API Integration,7,2,4.2,72.8,0,69.6,43,Green,0,0,0.0121,False
+INIT-1502,Jaguar Land Rover,Finance,DTC Credit API Integration,4,1,1.0,94.2,1,74.3,27,Green,0,0,0.0057,False
+INIT-1503,Maserati,Operations,DTC Credit API Integration,8,4,4.3,102.5,2,68.9,37,Amber,0,0,0.356,False
+INIT-1504,Rivian,Controls,Dealer Floorplan Enablement,1,5,12.4,79.7,1,82.0,7,Green,0,0,0.0516,False
+INIT-1505,Subaru,Product,EV Promo Launch,2,3,8.0,62.9,1,59.1,51,Green,0,0,0.0193,False
+INIT-1506,Tesla,Controls,Residual Risk Corridor,3,5,5.8,76.7,1,79.2,39,Green,0,0,0.0373,False
+INIT-1507,Subaru,Controls,EV Promo Launch,1,3,3.1,79.5,0,72.0,42,Green,0,0,0.0017,False
+INIT-1508,Tesla,Operations,DTC Credit API Integration,5,5,7.0,82.6,0,69.1,43,Green,0,0,0.0703,False
+INIT-1509,McLaren,Operations,Residual Risk Corridor,2,1,6.3,95.5,1,76.2,24,Green,0,0,0.009,False
+INIT-1510,Subaru,Product,QBR Governance Automation,2,4,10.3,99.6,1,82.0,19,Green,0,0,0.0849,False
+INIT-1511,McLaren,Risk,Dealer Floorplan Enablement,2,1,12.9,87.1,2,74.9,11,Green,0,0,0.1693,False
+INIT-1512,Rivian,Risk,EV Promo Launch,1,3,16.0,68.2,1,76.0,5,Green,0,0,0.0494,False
+INIT-1513,Subaru,Product,CIB/Private Bank Cross-Sell,1,1,8.4,81.8,2,70.1,10,Green,0,0,0.0414,False
+INIT-1514,Tesla,Product,QBR Governance Automation,7,2,7.1,77.6,0,78.7,33,Green,0,0,0.0565,False
+INIT-1515,Rivian,Product,QBR Governance Automation,3,1,4.1,76.4,0,77.2,54,Green,0,0,0.0029,False
+INIT-1516,Jaguar Land Rover,Finance,DTC Credit API Integration,7,2,12.3,78.1,1,75.3,35,Green,0,0,0.0901,False
+INIT-1517,Tesla,Compliance,Residual Risk Corridor,6,2,15.4,74.2,1,83.5,53,Green,0,0,0.1384,False
+INIT-1518,Rivian,Operations,DTC Credit API Integration,3,1,2.0,74.8,0,73.6,39,Green,0,0,0.0009,False
+INIT-1519,Rivian,Product,Residual Risk Corridor,6,1,7.5,83.2,0,81.3,20,Green,0,0,0.022,False
+INIT-1520,Aston Martin,Finance,CIB/Private Bank Cross-Sell,7,2,2.3,78.1,0,86.4,31,Green,0,0,0.0246,False
+INIT-1521,Jaguar Land Rover,Controls,EV Promo Launch,5,3,7.3,89.1,3,62.4,38,Green,0,0,0.266,False
+INIT-1522,Jaguar Land Rover,Compliance,QBR Governance Automation,7,2,9.0,69.8,0,85.1,18,Green,0,0,0.0112,False
+INIT-1523,Maserati,Controls,Dealer Floorplan Enablement,2,4,6.8,70.9,1,76.9,41,Green,0,0,0.0097,False
+INIT-1524,Rivian,Risk,EV Promo Launch,1,5,7.2,58.8,1,73.9,37,Green,0,0,0.0163,False
+INIT-1525,McLaren,Compliance,DTC Credit API Integration,5,1,5.1,93.3,2,66.1,20,Green,0,0,0.1001,False
+INIT-1526,Maserati,Risk,Residual Risk Corridor,2,3,14.2,82.5,0,73.3,29,Green,0,0,0.0439,False
+INIT-1527,Tesla,Marketing,Residual Risk Corridor,5,3,6.5,88.6,1,67.1,28,Green,0,0,0.3185,False
+INIT-1528,Rivian,Risk,QBR Governance Automation,8,4,7.2,66.2,0,73.7,13,Green,0,0,0.1551,False
+INIT-1529,Subaru,Product,CIB/Private Bank Cross-Sell,7,1,7.4,86.7,0,71.3,7,Green,0,0,0.1077,False
+INIT-1530,Jaguar Land Rover,Technology,DTC Credit API Integration,1,4,6.9,71.3,0,79.8,39,Green,0,0,0.0019,False
+INIT-1531,Tesla,Finance,Dealer Floorplan Enablement,5,5,5.2,73.2,2,60.1,8,Green,0,0,0.4484,False
+INIT-1532,Maserati,Finance,Dealer Floorplan Enablement,2,1,2.0,83.5,0,74.0,11,Green,0,0,0.0016,False
+INIT-1533,Tesla,Legal,CIB/Private Bank Cross-Sell,8,2,6.8,67.3,1,61.6,41,Green,1,5,0.3282,False
+INIT-1534,Jaguar Land Rover,Compliance,Dealer Floorplan Enablement,4,2,16.5,89.8,0,66.1,52,Green,0,0,0.1164,False
+INIT-1535,Tesla,Controls,QBR Governance Automation,7,1,9.8,83.9,3,87.9,54,Green,1,3,0.2183,False
+INIT-1536,Aston Martin,Risk,EV Promo Launch,7,1,9.1,80.4,2,74.6,39,Green,0,0,0.3096,False
+INIT-1537,McLaren,Product,QBR Governance Automation,6,4,6.7,83.9,1,67.5,9,Green,0,0,0.2874,False
+INIT-1538,Tesla,Operations,QBR Governance Automation,8,5,6.2,80.0,0,79.5,21,Green,0,0,0.1249,False
+INIT-1539,Subaru,Compliance,Dealer Floorplan Enablement,8,4,16.4,94.1,2,56.0,12,Amber,1,18,0.9636,False
+INIT-1540,Tesla,Risk,DTC Credit API Integration,8,5,14.1,87.3,0,74.6,20,Green,1,16,0.7484,True
+INIT-1541,Rivian,Operations,Residual Risk Corridor,2,1,9.9,82.8,2,75.1,7,Green,0,0,0.0191,False
+INIT-1542,Rivian,Finance,Dealer Floorplan Enablement,7,5,6.5,50.0,1,75.8,43,Green,0,0,0.0822,False
+INIT-1543,Tesla,Operations,Residual Risk Corridor,8,5,1.0,59.8,0,61.7,60,Green,0,0,0.0526,False
+INIT-1544,Subaru,Marketing,Residual Risk Corridor,7,5,2.7,75.9,0,73.0,9,Green,0,0,0.12,False
+INIT-1545,Jaguar Land Rover,Product,CIB/Private Bank Cross-Sell,4,5,8.7,76.9,0,74.3,27,Green,0,0,0.0747,False
+INIT-1546,Aston Martin,Controls,EV Promo Launch,3,4,8.0,74.1,1,75.9,38,Green,0,0,0.0321,False
+INIT-1547,Rivian,Finance,DTC Credit API Integration,4,3,3.3,57.2,0,88.3,43,Green,0,0,0.0011,False
+INIT-1548,Tesla,Controls,CIB/Private Bank Cross-Sell,5,4,13.6,85.9,0,78.1,39,Green,0,0,0.2715,False
+INIT-1549,Rivian,Technology,QBR Governance Automation,4,1,8.6,74.1,0,85.1,15,Green,0,0,0.0048,False
+INIT-1550,McLaren,Finance,DTC Credit API Integration,6,1,7.7,108.8,1,68.1,28,Amber,0,0,0.2079,False
+INIT-1551,Jaguar Land Rover,Risk,QBR Governance Automation,3,3,10.0,80.3,1,82.8,38,Green,0,0,0.0306,False
+INIT-1552,Tesla,Legal,DTC Credit API Integration,5,4,9.4,55.7,0,82.0,10,Green,0,0,0.0175,False
+INIT-1553,Subaru,Technology,QBR Governance Automation,3,2,10.2,96.4,1,63.8,21,Green,0,0,0.1081,False
+INIT-1554,Aston Martin,Marketing,EV Promo Launch,1,5,1.7,80.9,1,75.4,20,Green,0,0,0.0289,False
+INIT-1555,Tesla,Legal,DTC Credit API Integration,7,3,10.9,72.2,2,79.8,5,Amber,0,0,0.2904,False
+INIT-1556,Tesla,Technology,CIB/Private Bank Cross-Sell,5,2,9.0,101.7,3,57.8,44,Green,1,13,0.8595,True
+INIT-1557,Subaru,Risk,Dealer Floorplan Enablement,7,4,8.1,91.5,0,78.4,54,Green,0,0,0.275,False
+INIT-1558,Tesla,Product,Residual Risk Corridor,6,4,1.0,86.4,1,68.9,54,Green,0,0,0.148,False
+INIT-1559,Jaguar Land Rover,Risk,CIB/Private Bank Cross-Sell,3,4,11.3,88.6,0,71.6,41,Green,0,0,0.1437,False
+INIT-1560,Jaguar Land Rover,Risk,EV Promo Launch,4,4,5.2,79.8,0,59.0,13,Green,0,0,0.0496,False
+INIT-1561,Subaru,Compliance,EV Promo Launch,3,2,11.7,80.4,0,74.4,39,Green,0,0,0.0123,False
+INIT-1562,Tesla,Operations,Dealer Floorplan Enablement,3,2,4.1,74.6,0,80.3,18,Green,0,0,0.0033,False
+INIT-1563,Rivian,Finance,CIB/Private Bank Cross-Sell,1,3,9.7,90.9,0,61.9,25,Green,0,0,0.0632,False
+INIT-1564,Jaguar Land Rover,Risk,Residual Risk Corridor,7,3,13.7,92.4,2,63.5,35,Red,1,13,0.8054,False
+INIT-1565,Subaru,Legal,EV Promo Launch,7,2,18.3,80.1,1,82.5,47,Green,1,7,0.2425,False
+INIT-1566,McLaren,Technology,QBR Governance Automation,5,5,8.3,85.3,2,86.7,36,Green,0,0,0.2257,False
+INIT-1567,Rivian,Marketing,DTC Credit API Integration,1,2,8.3,78.3,1,87.6,5,Green,0,0,0.0079,False
+INIT-1568,Tesla,Operations,Dealer Floorplan Enablement,7,5,4.2,76.1,1,70.3,28,Green,0,0,0.2096,False
+INIT-1569,Aston Martin,Technology,Dealer Floorplan Enablement,2,2,10.3,84.2,0,78.8,5,Green,0,0,0.0209,False
+INIT-1570,Rivian,Compliance,EV Promo Launch,8,3,16.5,110.5,1,59.3,37,Green,1,18,0.9133,True
+INIT-1571,Subaru,Legal,EV Promo Launch,5,4,5.4,64.1,1,74.7,39,Green,0,0,0.0228,False
+INIT-1572,Tesla,Operations,Dealer Floorplan Enablement,5,3,9.9,56.1,1,81.9,6,Green,0,0,0.0258,False
+INIT-1573,Rivian,Product,Residual Risk Corridor,1,1,4.8,79.6,0,83.0,34,Green,0,0,0.0012,False
+INIT-1574,Rivian,Finance,QBR Governance Automation,2,5,6.3,100.9,0,66.0,33,Green,1,2,0.0771,False
+INIT-1575,Subaru,Controls,Residual Risk Corridor,4,4,13.2,78.0,0,70.9,11,Green,0,0,0.0694,False
+INIT-1576,Tesla,Compliance,DTC Credit API Integration,5,2,10.8,86.5,0,80.9,22,Green,0,0,0.0384,False
+INIT-1577,Rivian,Product,QBR Governance Automation,2,2,6.3,74.2,0,62.8,58,Green,0,0,0.0091,False
+INIT-1578,Jaguar Land Rover,Compliance,CIB/Private Bank Cross-Sell,6,4,10.8,88.4,4,59.7,52,Green,1,17,0.9098,True
+INIT-1579,Maserati,Controls,EV Promo Launch,6,1,4.2,90.8,3,52.7,36,Amber,0,0,0.2203,False
+INIT-1580,Rivian,Finance,Residual Risk Corridor,7,3,1.0,82.2,1,76.0,5,Green,0,0,0.0523,False
+INIT-1581,Jaguar Land Rover,Risk,Dealer Floorplan Enablement,2,1,16.3,77.3,1,79.5,45,Green,0,0,0.0373,False
+INIT-1582,Rivian,Operations,EV Promo Launch,1,3,3.7,73.2,0,93.9,6,Green,0,0,0.0004,False
+INIT-1583,Jaguar Land Rover,Technology,Residual Risk Corridor,4,1,6.8,75.6,0,80.5,20,Green,0,0,0.0028,False
+INIT-1584,Jaguar Land Rover,Controls,Dealer Floorplan Enablement,4,1,5.9,65.0,0,83.2,6,Green,0,0,0.0013,False
+INIT-1585,Rivian,Legal,EV Promo Launch,3,2,5.9,68.3,0,79.3,29,Green,0,0,0.0026,False
+INIT-1586,Tesla,Product,Residual Risk Corridor,7,4,11.3,69.8,1,69.5,13,Amber,0,0,0.4427,False
+INIT-1587,McLaren,Finance,Residual Risk Corridor,5,2,5.5,69.5,1,75.3,25,Green,0,0,0.0205,False
+INIT-1588,Tesla,Marketing,Residual Risk Corridor,6,2,3.6,75.4,0,69.7,45,Green,0,0,0.0529,False
+INIT-1589,Subaru,Technology,Residual Risk Corridor,1,1,14.9,98.0,0,71.3,5,Green,0,0,0.0265,False
+INIT-1590,Tesla,Product,CIB/Private Bank Cross-Sell,2,4,6.8,75.5,0,77.5,30,Green,0,0,0.0303,False
+INIT-1591,Rivian,Risk,DTC Credit API Integration,8,2,9.1,95.4,3,72.2,23,Red,1,13,0.7889,False
+INIT-1592,Tesla,Marketing,Residual Risk Corridor,7,3,2.4,68.4,0,74.2,29,Green,0,0,0.0555,False
+INIT-1593,Tesla,Finance,DTC Credit API Integration,7,1,7.4,70.4,1,87.0,58,Green,0,0,0.0212,False
+INIT-1594,Tesla,Compliance,Residual Risk Corridor,6,5,15.2,55.8,0,65.2,46,Green,0,0,0.2467,False
+INIT-1595,Rivian,Product,EV Promo Launch,8,2,1.0,65.0,1,55.0,33,Green,0,0,0.0754,False
+INIT-1596,Aston Martin,Marketing,QBR Governance Automation,1,5,10.0,75.2,2,67.0,39,Green,0,0,0.2921,False
+INIT-1597,Tesla,Marketing,QBR Governance Automation,4,2,2.1,79.6,0,68.5,22,Green,0,0,0.0248,False
+INIT-1598,Tesla,Marketing,QBR Governance Automation,8,2,2.0,90.3,3,75.5,22,Green,0,0,0.5835,False
+INIT-1599,Aston Martin,Operations,DTC Credit API Integration,3,5,3.8,95.8,1,77.4,30,Green,0,0,0.0448,False
+INIT-1600,Tesla,Marketing,QBR Governance Automation,4,2,4.1,78.1,0,75.1,25,Green,0,0,0.0221,False
+INIT-1601,Tesla,Product,EV Promo Launch,5,3,3.8,91.6,0,70.4,50,Green,0,0,0.0534,False
+INIT-1602,McLaren,Legal,DTC Credit API Integration,4,4,16.3,80.9,1,81.6,33,Green,0,0,0.1843,False
+INIT-1603,Tesla,Technology,EV Promo Launch,8,4,5.4,79.2,2,69.5,43,Green,0,0,0.4602,False
+INIT-1604,Rivian,Marketing,EV Promo Launch,8,3,5.7,53.7,2,67.9,53,Amber,1,4,0.2143,False
+INIT-1605,Aston Martin,Compliance,Dealer Floorplan Enablement,7,5,11.9,62.6,1,73.2,16,Green,0,0,0.4238,False
+INIT-1606,Rivian,Controls,DTC Credit API Integration,3,4,5.3,55.5,1,81.3,56,Green,0,0,0.0038,False
+INIT-1607,Tesla,Compliance,EV Promo Launch,5,3,17.7,56.9,1,59.5,52,Green,0,0,0.2648,False
+INIT-1608,Subaru,Compliance,Residual Risk Corridor,4,2,17.2,77.3,0,67.7,49,Green,0,0,0.0735,False
+INIT-1609,Tesla,Operations,EV Promo Launch,6,3,14.2,76.5,2,82.0,5,Green,0,0,0.2323,False
+INIT-1610,Rivian,Legal,Residual Risk Corridor,2,3,11.7,61.7,0,76.3,56,Green,0,0,0.0074,False
+INIT-1611,Tesla,Operations,Dealer Floorplan Enablement,5,5,7.1,75.2,0,76.1,36,Green,0,0,0.0571,False
+INIT-1612,Subaru,Marketing,CIB/Private Bank Cross-Sell,7,2,3.9,87.7,1,64.5,9,Green,0,0,0.3659,False
+INIT-1613,Rivian,Controls,DTC Credit API Integration,1,2,14.5,65.9,0,90.5,19,Green,0,0,0.0018,False
+INIT-1614,Jaguar Land Rover,Risk,CIB/Private Bank Cross-Sell,8,4,10.0,56.7,2,65.5,58,Green,0,0,0.5822,False
+INIT-1615,Aston Martin,Risk,Residual Risk Corridor,2,1,7.8,83.1,0,63.4,51,Green,0,0,0.0255,False
+INIT-1616,Tesla,Legal,Residual Risk Corridor,4,2,6.4,65.7,0,85.8,44,Green,0,0,0.0044,False
+INIT-1617,Maserati,Product,DTC Credit API Integration,6,1,4.7,64.4,1,80.6,34,Green,0,0,0.0055,False
+INIT-1618,McLaren,Controls,Dealer Floorplan Enablement,8,4,13.4,76.3,1,72.2,5,Green,0,0,0.5831,False
+INIT-1619,Tesla,Marketing,Dealer Floorplan Enablement,6,3,1.0,92.9,0,66.4,28,Green,0,0,0.1788,False
+INIT-1620,Tesla,Marketing,DTC Credit API Integration,4,1,7.4,91.1,1,76.9,21,Green,0,0,0.072,False
+INIT-1621,Rivian,Risk,EV Promo Launch,1,1,9.5,72.6,1,75.3,60,Green,0,0,0.0077,False
+INIT-1622,Tesla,Risk,Residual Risk Corridor,5,1,10.3,73.5,1,81.2,41,Green,0,0,0.0618,False
+INIT-1623,Jaguar Land Rover,Operations,DTC Credit API Integration,7,3,14.3,95.5,1,72.1,18,Green,0,0,0.2792,False
+INIT-1624,Jaguar Land Rover,Risk,EV Promo Launch,1,1,8.7,75.4,0,72.9,37,Green,0,0,0.0025,False
+INIT-1625,Jaguar Land Rover,Marketing,QBR Governance Automation,4,1,2.0,90.1,0,65.2,38,Green,0,0,0.0125,False
+INIT-1626,Aston Martin,Marketing,DTC Credit API Integration,6,4,5.9,104.8,0,85.5,4,Green,0,0,0.2249,False
+INIT-1627,Rivian,Controls,CIB/Private Bank Cross-Sell,6,1,6.9,82.8,0,69.8,11,Green,0,0,0.047,False
+INIT-1628,Jaguar Land Rover,Risk,Dealer Floorplan Enablement,5,2,6.7,83.0,2,78.6,48,Green,0,0,0.0981,False
+INIT-1629,Rivian,Risk,EV Promo Launch,3,4,2.0,74.5,0,86.4,23,Green,0,0,0.0049,False
+INIT-1630,Tesla,Controls,Residual Risk Corridor,8,3,8.3,74.2,1,78.6,39,Green,0,0,0.1628,False
+INIT-1631,Jaguar Land Rover,Finance,Residual Risk Corridor,7,4,3.4,78.1,1,71.4,46,Green,0,0,0.0676,False
+INIT-1632,Rivian,Risk,Residual Risk Corridor,3,1,9.0,77.9,0,80.2,35,Green,0,0,0.0098,False
+INIT-1633,Tesla,Technology,CIB/Private Bank Cross-Sell,8,1,4.5,77.5,0,89.4,4,Green,0,0,0.0319,False
+INIT-1634,Tesla,Marketing,EV Promo Launch,3,1,1.0,83.9,0,72.0,14,Green,0,0,0.0074,False
+INIT-1635,Maserati,Risk,Residual Risk Corridor,4,5,7.4,78.5,0,91.5,8,Green,0,0,0.0207,False
+INIT-1636,Maserati,Marketing,Dealer Floorplan Enablement,6,2,4.0,65.9,2,74.8,9,Green,1,1,0.0709,False
+INIT-1637,Rivian,Product,Dealer Floorplan Enablement,4,1,1.0,65.0,0,76.6,35,Green,0,0,0.0021,False
+INIT-1638,Jaguar Land Rover,Risk,CIB/Private Bank Cross-Sell,1,3,7.6,76.3,1,94.2,8,Green,0,0,0.0076,False
+INIT-1639,Jaguar Land Rover,Operations,CIB/Private Bank Cross-Sell,7,5,3.9,82.1,1,60.5,14,Green,1,4,0.2639,False
+INIT-1640,Jaguar Land Rover,Risk,QBR Governance Automation,6,3,11.3,75.1,0,66.6,9,Green,0,0,0.1283,False
+INIT-1641,Jaguar Land Rover,Risk,CIB/Private Bank Cross-Sell,2,1,12.1,72.3,1,76.3,11,Green,0,0,0.0262,False
+INIT-1642,Tesla,Product,QBR Governance Automation,6,4,11.8,107.3,1,62.0,19,Red,1,12,0.8482,False
+INIT-1643,Maserati,Controls,Dealer Floorplan Enablement,6,3,3.7,101.9,1,91.4,60,Green,0,0,0.0348,False
+INIT-1644,McLaren,Controls,QBR Governance Automation,7,2,4.6,73.2,0,60.5,49,Green,0,0,0.0417,False
+INIT-1645,Tesla,Compliance,DTC Credit API Integration,2,5,7.1,85.5,0,66.1,55,Green,0,0,0.043,False
+INIT-1646,Jaguar Land Rover,Operations,CIB/Private Bank Cross-Sell,5,4,11.6,62.1,1,72.5,57,Green,0,0,0.062,False
+INIT-1647,Tesla,Risk,QBR Governance Automation,1,5,10.1,68.6,2,71.2,41,Green,0,0,0.1638,False
+INIT-1648,Jaguar Land Rover,Technology,DTC Credit API Integration,8,1,4.0,91.5,0,84.8,37,Green,1,3,0.0117,False
+INIT-1649,Jaguar Land Rover,Risk,Dealer Floorplan Enablement,6,5,11.4,86.1,3,53.0,22,Red,1,20,0.9447,False
+INIT-1650,Maserati,Marketing,Residual Risk Corridor,1,4,3.5,85.9,1,78.6,30,Green,0,0,0.0141,False
+INIT-1651,Tesla,Technology,CIB/Private Bank Cross-Sell,8,1,4.6,106.8,2,62.4,21,Amber,0,0,0.7564,False
+INIT-1652,Tesla,Finance,DTC Credit API Integration,3,4,2.0,84.2,0,76.3,48,Green,0,0,0.0099,False
+INIT-1653,Subaru,Operations,QBR Governance Automation,8,5,11.0,91.9,2,64.5,37,Amber,1,13,0.7876,False
+INIT-1654,Tesla,Finance,CIB/Private Bank Cross-Sell,4,2,7.6,69.3,0,71.5,33,Green,0,0,0.0282,False
+INIT-1655,Rivian,Product,Dealer Floorplan Enablement,2,5,8.9,76.5,1,68.4,58,Green,1,3,0.1081,False
+INIT-1656,Tesla,Controls,Dealer Floorplan Enablement,8,2,9.2,65.1,0,76.4,36,Green,0,0,0.0655,False
+INIT-1657,Maserati,Risk,DTC Credit API Integration,5,4,17.0,90.7,2,45.0,49,Red,1,16,0.9201,False
+INIT-1658,Rivian,Finance,Dealer Floorplan Enablement,1,1,6.5,82.2,0,88.4,37,Green,0,0,0.0014,False
+INIT-1659,McLaren,Risk,CIB/Private Bank Cross-Sell,4,3,11.5,74.4,2,80.1,5,Green,0,0,0.3306,False
+INIT-1660,Jaguar Land Rover,Marketing,QBR Governance Automation,7,1,1.3,97.8,0,78.0,32,Green,0,0,0.0263,False
+INIT-1661,Maserati,Product,DTC Credit API Integration,8,1,3.6,79.8,3,63.7,41,Green,1,7,0.214,False
+INIT-1662,Rivian,Marketing,Residual Risk Corridor,1,1,4.9,57.5,0,83.2,21,Green,0,0,0.0008,False
+INIT-1663,Tesla,Controls,EV Promo Launch,1,2,12.2,65.4,1,81.0,25,Green,0,0,0.0063,False
+INIT-1664,Rivian,Controls,CIB/Private Bank Cross-Sell,2,4,5.7,60.5,1,65.9,47,Green,0,0,0.0213,False
+INIT-1665,Tesla,Finance,QBR Governance Automation,6,4,13.9,85.6,0,82.1,47,Green,0,0,0.2228,False
+INIT-1666,Aston Martin,Technology,Dealer Floorplan Enablement,8,4,7.4,70.3,1,70.7,51,Green,0,0,0.366,False
+INIT-1667,Tesla,Controls,Dealer Floorplan Enablement,3,2,9.7,61.2,0,77.0,6,Green,0,0,0.0079,False
+INIT-1668,Jaguar Land Rover,Risk,CIB/Private Bank Cross-Sell,7,5,8.9,76.9,1,67.5,47,Green,1,10,0.5734,False
+INIT-1669,Rivian,Controls,QBR Governance Automation,8,5,14.5,100.2,0,79.6,22,Green,1,10,0.6183,False
+INIT-1670,Jaguar Land Rover,Product,EV Promo Launch,4,2,11.0,75.4,0,89.1,18,Green,0,0,0.0054,False
+INIT-1671,Subaru,Operations,EV Promo Launch,3,2,10.6,64.0,0,89.0,47,Green,0,0,0.0012,False
+INIT-1672,Subaru,Legal,Dealer Floorplan Enablement,4,5,15.7,71.3,0,65.0,24,Green,1,5,0.2406,False
+INIT-1673,Rivian,Technology,Residual Risk Corridor,6,4,9.6,82.7,1,82.2,15,Green,0,0,0.1585,False
+INIT-1674,Tesla,Controls,EV Promo Launch,8,5,6.2,69.4,0,69.2,25,Green,0,0,0.1472,False
+INIT-1675,Rivian,Operations,QBR Governance Automation,3,4,4.1,73.2,0,77.4,22,Green,0,0,0.0044,False
+INIT-1676,Subaru,Compliance,QBR Governance Automation,5,1,11.4,92.6,1,57.6,54,Green,0,0,0.1829,False
+INIT-1677,Jaguar Land Rover,Risk,EV Promo Launch,1,5,14.9,78.9,1,61.6,13,Green,0,0,0.1837,False
+INIT-1678,Subaru,Marketing,Dealer Floorplan Enablement,8,2,8.2,52.2,0,72.2,49,Green,0,0,0.0587,False
+INIT-1679,Tesla,Legal,DTC Credit API Integration,3,5,16.1,84.3,0,84.1,14,Green,0,0,0.1237,False
+INIT-1680,Subaru,Marketing,Residual Risk Corridor,5,4,7.9,69.7,1,86.7,42,Green,1,1,0.0581,False
+INIT-1681,Tesla,Finance,QBR Governance Automation,7,5,5.3,78.6,2,66.0,38,Green,1,8,0.5462,False
+INIT-1682,Tesla,Operations,QBR Governance Automation,4,5,8.8,77.0,0,70.3,59,Green,0,0,0.0551,False
+INIT-1683,Rivian,Compliance,DTC Credit API Integration,7,3,12.1,92.9,2,71.0,56,Green,1,16,0.5616,False
+INIT-1684,Tesla,Operations,EV Promo Launch,2,5,7.1,85.0,0,67.2,53,Green,0,0,0.0267,False
+INIT-1685,Aston Martin,Legal,Dealer Floorplan Enablement,2,3,6.8,73.7,0,81.5,40,Green,0,0,0.0082,False
+INIT-1686,Jaguar Land Rover,Legal,QBR Governance Automation,8,3,9.2,68.4,0,71.2,48,Green,0,0,0.0601,False
+INIT-1687,Rivian,Legal,EV Promo Launch,4,4,8.0,71.3,2,76.6,39,Green,0,0,0.0741,False
+INIT-1688,Rivian,Marketing,QBR Governance Automation,7,4,6.3,89.7,1,77.2,37,Green,0,0,0.3836,False
+INIT-1689,Jaguar Land Rover,Legal,CIB/Private Bank Cross-Sell,4,5,10.9,63.0,0,78.0,55,Green,0,0,0.036,False
+INIT-1690,Aston Martin,Compliance,EV Promo Launch,3,2,11.5,61.6,0,74.7,22,Green,0,0,0.0085,False
+INIT-1691,McLaren,Legal,Dealer Floorplan Enablement,5,1,10.2,85.4,0,74.2,31,Green,0,0,0.0477,False
+INIT-1692,Subaru,Operations,QBR Governance Automation,3,5,4.0,86.5,0,70.6,29,Green,0,0,0.0153,False
+INIT-1693,Aston Martin,Marketing,QBR Governance Automation,5,1,2.7,75.7,0,83.5,50,Green,0,0,0.0088,False
+INIT-1694,Rivian,Product,Residual Risk Corridor,6,5,2.9,93.5,2,64.8,32,Green,0,0,0.5132,False
+INIT-1695,Subaru,Compliance,QBR Governance Automation,7,5,10.7,67.5,3,70.7,55,Red,1,13,0.5964,False
+INIT-1696,Jaguar Land Rover,Marketing,CIB/Private Bank Cross-Sell,5,2,3.4,90.8,0,68.9,39,Green,0,0,0.0582,False
+INIT-1697,Aston Martin,Product,Dealer Floorplan Enablement,4,2,9.0,66.7,0,54.9,9,Green,0,0,0.0788,False
+INIT-1698,McLaren,Technology,EV Promo Launch,3,3,6.9,74.4,1,71.6,54,Green,0,0,0.0219,False
+INIT-1699,Rivian,Risk,EV Promo Launch,2,3,9.7,92.2,1,76.2,56,Green,0,0,0.0679,False
+INIT-1700,Rivian,Product,Residual Risk Corridor,3,3,11.5,83.7,0,82.0,45,Green,0,0,0.0277,False
+INIT-1701,Subaru,Marketing,QBR Governance Automation,1,2,2.1,91.8,0,70.7,41,Green,0,0,0.0063,False
+INIT-1702,Tesla,Risk,DTC Credit API Integration,8,4,14.4,70.7,1,64.8,25,Amber,1,14,0.7726,False
+INIT-1703,Maserati,Controls,CIB/Private Bank Cross-Sell,5,2,7.0,80.0,0,71.0,56,Green,0,0,0.022,False
+INIT-1704,Tesla,Legal,EV Promo Launch,2,5,8.2,74.6,1,72.7,34,Green,0,0,0.0533,False
+INIT-1705,Subaru,Product,CIB/Private Bank Cross-Sell,2,2,4.6,50.0,2,80.9,29,Green,0,0,0.0052,False
+INIT-1706,Tesla,Operations,Dealer Floorplan Enablement,4,4,6.2,107.9,1,67.0,54,Green,0,0,0.2793,False
+INIT-1707,Tesla,Risk,EV Promo Launch,2,3,8.9,78.6,0,59.3,48,Green,0,0,0.0583,False
+INIT-1708,Tesla,Compliance,Residual Risk Corridor,6,5,10.7,52.5,0,77.8,30,Green,0,0,0.0565,False
+INIT-1709,McLaren,Marketing,Residual Risk Corridor,5,5,3.2,72.4,0,75.6,21,Green,0,0,0.058,False
+INIT-1710,Rivian,Product,DTC Credit API Integration,6,4,7.7,85.3,0,68.1,18,Green,0,0,0.1415,False
+INIT-1711,Tesla,Marketing,EV Promo Launch,4,1,4.3,68.5,1,82.3,20,Green,0,0,0.0106,False
+INIT-1712,Tesla,Legal,Residual Risk Corridor,1,1,6.5,76.7,0,79.4,50,Green,0,0,0.002,False
+INIT-1713,Subaru,Controls,Residual Risk Corridor,5,5,9.6,96.6,1,95.7,25,Green,0,0,0.0944,False
+INIT-1714,Subaru,Legal,CIB/Private Bank Cross-Sell,8,5,13.1,67.1,1,56.7,9,Red,1,12,0.8186,False
+INIT-1715,Subaru,Marketing,EV Promo Launch,1,2,5.1,80.5,1,69.5,22,Green,0,0,0.0118,False
+INIT-1716,Rivian,Technology,Dealer Floorplan Enablement,2,4,10.9,74.2,1,73.5,60,Green,1,0,0.0564,False
+INIT-1717,Tesla,Controls,Residual Risk Corridor,7,3,12.5,80.5,1,72.6,33,Green,1,4,0.3513,False
+INIT-1718,Rivian,Risk,EV Promo Launch,6,5,14.2,71.1,1,75.7,23,Amber,1,8,0.4493,False
+INIT-1719,Tesla,Controls,Residual Risk Corridor,2,2,11.5,80.3,0,70.3,47,Green,1,2,0.0184,False
+INIT-1720,Maserati,Technology,EV Promo Launch,5,3,6.7,97.5,1,43.1,18,Amber,0,0,0.3392,False
+INIT-1721,Jaguar Land Rover,Legal,DTC Credit API Integration,3,3,9.8,62.9,2,66.6,58,Green,0,0,0.0295,False
+INIT-1722,Rivian,Controls,Dealer Floorplan Enablement,6,2,7.2,77.3,1,56.0,21,Green,0,0,0.1665,False
+INIT-1723,Tesla,Product,DTC Credit API Integration,5,5,6.0,89.5,1,70.1,13,Green,0,0,0.29,False
+INIT-1724,Rivian,Controls,CIB/Private Bank Cross-Sell,1,3,10.5,71.7,0,71.9,47,Green,0,0,0.0125,False
+INIT-1725,Subaru,Risk,Residual Risk Corridor,4,3,14.5,83.1,0,99.0,15,Green,0,0,0.0332,False
+INIT-1726,Tesla,Marketing,CIB/Private Bank Cross-Sell,3,1,3.2,71.0,0,90.3,8,Green,0,0,0.0047,False
+INIT-1727,Rivian,Finance,DTC Credit API Integration,1,1,6.9,86.0,2,82.6,29,Green,0,0,0.007,False
+INIT-1728,Rivian,Product,Dealer Floorplan Enablement,4,5,4.4,72.1,1,74.9,37,Green,0,0,0.0665,False
+INIT-1729,Jaguar Land Rover,Legal,QBR Governance Automation,3,4,10.5,75.7,1,84.6,57,Green,1,3,0.0196,False
+INIT-1730,Tesla,Compliance,EV Promo Launch,7,1,9.5,86.6,1,90.0,41,Green,0,0,0.054,False
+INIT-1731,Rivian,Legal,Residual Risk Corridor,5,5,10.5,65.0,2,55.7,16,Green,1,10,0.4971,False
+INIT-1732,Jaguar Land Rover,Legal,Dealer Floorplan Enablement,1,2,10.4,77.0,0,86.6,40,Green,0,0,0.0023,False
+INIT-1733,Tesla,Finance,Dealer Floorplan Enablement,6,3,10.9,87.0,0,74.2,48,Green,0,0,0.2031,False
+INIT-1734,Tesla,Finance,CIB/Private Bank Cross-Sell,5,2,5.9,74.4,2,64.7,57,Green,1,3,0.2094,False
+INIT-1735,Subaru,Compliance,Residual Risk Corridor,2,3,13.8,62.0,1,83.5,49,Green,0,0,0.0107,False
+INIT-1736,Tesla,Compliance,Dealer Floorplan Enablement,3,4,6.1,77.8,0,81.7,30,Green,0,0,0.0176,False
+INIT-1737,Rivian,Product,QBR Governance Automation,3,3,8.4,70.5,1,82.2,16,Green,0,0,0.0184,False
+INIT-1738,Tesla,Compliance,DTC Credit API Integration,6,5,14.9,90.4,0,75.3,55,Green,1,14,0.42,False
+INIT-1739,Jaguar Land Rover,Technology,Dealer Floorplan Enablement,6,5,10.2,84.6,0,69.3,5,Green,0,0,0.2222,False
+INIT-1740,Subaru,Risk,QBR Governance Automation,5,5,10.3,72.4,0,82.7,8,Green,0,0,0.0839,False
+INIT-1741,Tesla,Risk,DTC Credit API Integration,6,3,7.9,75.3,0,73.3,41,Green,0,0,0.092,False
+INIT-1742,Jaguar Land Rover,Legal,EV Promo Launch,7,5,7.6,71.2,4,73.8,58,Green,1,11,0.5342,False
+INIT-1743,Rivian,Finance,Residual Risk Corridor,7,5,11.7,75.4,0,81.8,55,Green,0,0,0.1602,False
+INIT-1744,Rivian,Finance,Dealer Floorplan Enablement,8,3,11.3,66.3,0,72.1,16,Green,0,0,0.1629,False
+INIT-1745,Jaguar Land Rover,Risk,Dealer Floorplan Enablement,1,4,1.6,75.3,0,81.6,13,Green,0,0,0.0026,False
+INIT-1746,Tesla,Operations,Residual Risk Corridor,1,4,6.6,53.6,0,78.8,4,Green,0,0,0.0016,False
+INIT-1747,Jaguar Land Rover,Controls,Dealer Floorplan Enablement,5,2,6.0,71.1,1,72.2,54,Green,0,0,0.0151,False
+INIT-1748,Tesla,Compliance,DTC Credit API Integration,3,4,9.3,75.1,1,62.5,50,Green,0,0,0.0954,False
+INIT-1749,Tesla,Risk,Residual Risk Corridor,5,4,8.9,75.2,3,62.5,4,Amber,1,5,0.7503,False
+INIT-1750,Tesla,Finance,QBR Governance Automation,6,5,4.7,67.2,0,68.2,33,Green,0,0,0.0744,False
+INIT-1751,Rivian,Risk,DTC Credit API Integration,2,4,5.5,82.7,0,79.4,58,Green,0,0,0.0123,False
+INIT-1752,Jaguar Land Rover,Legal,Dealer Floorplan Enablement,4,5,1.7,85.8,1,84.9,16,Green,0,0,0.0225,False
+INIT-1753,Subaru,Risk,DTC Credit API Integration,3,3,11.7,75.7,1,91.1,39,Green,0,0,0.0235,False
+INIT-1754,Subaru,Compliance,QBR Governance Automation,7,3,6.8,93.1,1,71.1,44,Green,0,0,0.1983,False
+INIT-1755,Tesla,Finance,DTC Credit API Integration,7,3,7.8,60.0,2,88.1,13,Green,0,0,0.067,False
+INIT-1756,Subaru,Marketing,Residual Risk Corridor,4,4,3.8,90.3,1,62.3,26,Green,0,0,0.1945,False
+INIT-1757,Jaguar Land Rover,Compliance,EV Promo Launch,2,1,10.8,90.8,0,74.7,35,Green,0,0,0.0051,False
+INIT-1758,McLaren,Risk,Residual Risk Corridor,2,3,6.9,87.1,1,72.7,49,Green,1,0,0.0562,False
+INIT-1759,Jaguar Land Rover,Compliance,DTC Credit API Integration,1,4,11.0,72.2,1,87.4,36,Green,0,0,0.0048,False
+INIT-1760,Tesla,Risk,DTC Credit API Integration,7,5,7.8,88.2,0,70.7,23,Green,0,0,0.4513,False
+INIT-1761,Subaru,Technology,EV Promo Launch,6,2,7.7,84.1,2,62.9,43,Green,1,10,0.2045,False
+INIT-1762,Tesla,Operations,QBR Governance Automation,2,3,1.0,73.8,1,65.5,56,Green,0,0,0.0063,False
+INIT-1763,Rivian,Operations,Residual Risk Corridor,4,4,9.5,69.2,1,77.8,43,Green,0,0,0.0279,False
+INIT-1764,Rivian,Compliance,CIB/Private Bank Cross-Sell,1,1,10.5,60.7,0,76.4,23,Green,0,0,0.0029,False
+INIT-1765,Jaguar Land Rover,Compliance,QBR Governance Automation,3,5,9.7,58.0,0,79.0,15,Green,0,0,0.0069,False
+INIT-1766,Jaguar Land Rover,Compliance,QBR Governance Automation,3,5,7.5,95.1,0,72.5,36,Green,0,0,0.0397,False
+INIT-1767,Rivian,Technology,Residual Risk Corridor,6,4,10.6,104.9,2,72.3,43,Amber,1,14,0.708,False
+INIT-1768,Jaguar Land Rover,Operations,CIB/Private Bank Cross-Sell,3,2,5.8,77.2,0,72.7,34,Green,0,0,0.0044,False
+INIT-1769,Rivian,Controls,Residual Risk Corridor,5,3,7.4,102.5,0,76.7,49,Green,0,0,0.064,False
+INIT-1770,Jaguar Land Rover,Operations,DTC Credit API Integration,4,3,4.6,80.3,1,65.4,55,Green,0,0,0.0122,False
+INIT-1771,Rivian,Compliance,QBR Governance Automation,6,2,8.3,91.9,2,60.8,58,Amber,1,12,0.3767,False
+INIT-1772,Rivian,Marketing,Dealer Floorplan Enablement,3,2,7.4,80.6,0,80.7,12,Green,0,0,0.0207,False
+INIT-1773,Tesla,Legal,CIB/Private Bank Cross-Sell,2,4,6.1,81.3,0,71.7,56,Green,0,0,0.0387,False
+INIT-1774,Rivian,Marketing,EV Promo Launch,1,5,1.0,66.3,1,75.9,49,Green,0,0,0.0079,False
+INIT-1775,Rivian,Risk,EV Promo Launch,2,5,13.5,96.3,0,70.3,45,Green,0,0,0.2242,False
+INIT-1776,Tesla,Operations,Dealer Floorplan Enablement,4,5,7.4,65.0,1,87.2,50,Green,0,0,0.0258,False
+INIT-1777,McLaren,Controls,Dealer Floorplan Enablement,6,5,13.5,85.4,2,79.9,19,Amber,0,0,0.6544,False
+INIT-1778,Tesla,Product,DTC Credit API Integration,2,3,4.2,92.6,0,83.9,57,Green,0,0,0.0076,False
+INIT-1779,Subaru,Marketing,Dealer Floorplan Enablement,4,5,2.8,77.8,0,87.2,42,Green,0,0,0.0224,False
+INIT-1780,Rivian,Operations,Dealer Floorplan Enablement,7,1,8.3,90.3,2,74.7,22,Green,0,0,0.1877,False
+INIT-1781,Jaguar Land Rover,Risk,Residual Risk Corridor,8,1,5.2,87.1,0,83.9,53,Green,0,0,0.0272,False
+INIT-1782,Aston Martin,Operations,DTC Credit API Integration,7,4,10.2,88.3,1,70.0,58,Green,0,0,0.346,False
+INIT-1783,Subaru,Risk,DTC Credit API Integration,7,2,11.0,96.1,0,83.5,10,Green,0,0,0.1406,False
+INIT-1784,Aston Martin,Legal,CIB/Private Bank Cross-Sell,3,4,9.7,83.3,0,79.5,27,Green,0,0,0.0808,False
+INIT-1785,Jaguar Land Rover,Finance,CIB/Private Bank Cross-Sell,7,1,1.0,78.4,0,70.8,42,Green,0,0,0.0126,False
+INIT-1786,Jaguar Land Rover,Marketing,QBR Governance Automation,7,1,4.4,64.4,0,72.3,27,Green,0,0,0.0128,False
+INIT-1787,Jaguar Land Rover,Technology,CIB/Private Bank Cross-Sell,5,2,6.3,84.1,1,74.6,45,Green,0,0,0.0481,False
+INIT-1788,Tesla,Controls,Residual Risk Corridor,2,5,14.6,65.2,0,77.8,10,Green,0,0,0.0375,False
+INIT-1789,Tesla,Controls,EV Promo Launch,5,4,9.5,62.5,2,53.7,35,Green,1,12,0.3128,False
+INIT-1790,Subaru,Finance,QBR Governance Automation,6,4,10.6,78.0,1,63.5,20,Green,1,3,0.3,False
+INIT-1791,Tesla,Finance,DTC Credit API Integration,3,1,4.5,67.2,0,84.2,52,Green,0,0,0.0012,False
+INIT-1792,McLaren,Product,CIB/Private Bank Cross-Sell,2,1,6.9,76.8,1,71.0,19,Green,0,0,0.023,False
+INIT-1793,Tesla,Controls,Dealer Floorplan Enablement,7,4,5.8,82.8,1,68.8,21,Green,0,0,0.3264,False
+INIT-1794,Subaru,Marketing,QBR Governance Automation,5,1,5.1,70.0,0,71.3,21,Green,0,0,0.0129,False
+INIT-1795,Jaguar Land Rover,Marketing,EV Promo Launch,8,3,5.4,59.4,1,73.7,41,Green,0,0,0.0625,False
+INIT-1796,Rivian,Compliance,Residual Risk Corridor,2,5,13.1,83.8,0,99.0,33,Green,0,0,0.0152,False
+INIT-1797,Subaru,Finance,EV Promo Launch,1,5,7.8,82.8,3,73.1,13,Green,0,0,0.1125,False
+INIT-1798,Maserati,Marketing,Residual Risk Corridor,1,5,9.5,73.0,0,81.5,6,Green,0,0,0.0142,False
+INIT-1799,Subaru,Product,Dealer Floorplan Enablement,2,5,3.6,84.8,0,63.4,38,Green,0,0,0.0373,False
+INIT-1800,Rivian,Compliance,CIB/Private Bank Cross-Sell,7,3,6.9,79.5,2,73.1,5,Green,0,0,0.3862,False
+INIT-1801,McLaren,Risk,Residual Risk Corridor,4,2,3.6,86.1,1,70.2,11,Green,0,0,0.0566,False
+INIT-1802,Tesla,Marketing,QBR Governance Automation,1,4,11.7,104.9,1,68.2,8,Green,0,0,0.4252,False
+INIT-1803,McLaren,Legal,QBR Governance Automation,3,3,6.6,71.0,1,58.1,32,Green,0,0,0.0505,False
+INIT-1804,Subaru,Legal,Dealer Floorplan Enablement,7,1,13.2,62.8,0,54.5,28,Green,0,0,0.1366,False
+INIT-1805,Rivian,Compliance,Residual Risk Corridor,3,4,13.8,71.8,1,67.4,55,Green,0,0,0.1151,False
+INIT-1806,McLaren,Legal,CIB/Private Bank Cross-Sell,6,1,10.9,94.6,0,82.5,10,Green,0,0,0.1113,False
+INIT-1807,Aston Martin,Controls,CIB/Private Bank Cross-Sell,3,3,13.7,68.6,1,74.2,11,Green,0,0,0.116,False
+INIT-1808,Tesla,Compliance,Dealer Floorplan Enablement,8,4,10.3,64.1,1,66.5,15,Green,0,0,0.4658,False
+INIT-1809,Rivian,Compliance,QBR Governance Automation,2,1,11.5,85.6,0,82.6,46,Green,0,0,0.0059,False
+INIT-1810,Tesla,Marketing,CIB/Private Bank Cross-Sell,7,3,6.7,68.7,3,63.9,43,Green,1,9,0.8105,True
+INIT-1811,Aston Martin,Controls,DTC Credit API Integration,5,2,9.1,79.5,0,86.8,33,Green,0,0,0.0126,False
+INIT-1812,Jaguar Land Rover,Legal,EV Promo Launch,2,2,13.2,87.0,0,84.4,59,Green,0,0,0.0061,False
+INIT-1813,Rivian,Controls,EV Promo Launch,6,2,11.5,94.7,0,62.3,22,Amber,0,0,0.1659,False
+INIT-1814,Jaguar Land Rover,Finance,Residual Risk Corridor,3,2,7.6,86.9,1,75.6,28,Green,0,0,0.015,False
+INIT-1815,Maserati,Technology,EV Promo Launch,1,1,6.0,72.0,0,81.0,23,Green,0,0,0.0005,False
+INIT-1816,Subaru,Operations,Dealer Floorplan Enablement,2,1,1.0,80.4,1,72.8,27,Green,0,0,0.002,False
+INIT-1817,Aston Martin,Finance,Dealer Floorplan Enablement,5,3,6.1,73.8,2,87.5,22,Green,0,0,0.073,False
+INIT-1818,Tesla,Compliance,CIB/Private Bank Cross-Sell,4,2,17.4,95.9,0,74.4,36,Green,0,0,0.3255,False
+INIT-1819,Subaru,Risk,Residual Risk Corridor,2,2,4.8,77.6,0,65.4,48,Green,0,0,0.0089,False
+INIT-1820,Tesla,Technology,Dealer Floorplan Enablement,3,3,2.1,86.0,0,79.5,53,Green,0,0,0.0104,False
+INIT-1821,Rivian,Marketing,EV Promo Launch,2,1,4.3,107.7,1,74.2,34,Green,0,0,0.0339,False
+INIT-1822,Jaguar Land Rover,Controls,EV Promo Launch,6,4,10.0,102.3,1,77.1,48,Amber,0,0,0.1931,False
+INIT-1823,Rivian,Finance,Dealer Floorplan Enablement,7,2,6.8,99.9,0,75.5,51,Green,0,0,0.1273,False
+INIT-1824,Jaguar Land Rover,Risk,EV Promo Launch,7,2,12.4,76.4,2,65.0,39,Green,1,6,0.4152,False
+INIT-1825,Subaru,Risk,EV Promo Launch,6,1,6.1,83.5,1,55.7,14,Green,1,2,0.1503,False
+INIT-1826,Subaru,Legal,DTC Credit API Integration,2,4,11.5,66.1,3,59.1,36,Green,0,0,0.1983,False
+INIT-1827,Jaguar Land Rover,Product,DTC Credit API Integration,2,2,5.0,75.9,0,80.9,27,Green,0,0,0.0013,False
+INIT-1828,Tesla,Risk,Dealer Floorplan Enablement,3,5,9.3,91.9,1,59.2,37,Green,1,2,0.6254,False
+INIT-1829,Subaru,Marketing,Dealer Floorplan Enablement,8,1,3.4,76.4,5,65.8,25,Amber,1,9,0.7856,False
+INIT-1830,Rivian,Controls,EV Promo Launch,5,4,13.8,69.0,1,74.5,24,Green,1,3,0.1163,False
+INIT-1831,Subaru,Legal,DTC Credit API Integration,5,4,4.6,84.0,0,74.8,49,Green,0,0,0.0238,False
+INIT-1832,Tesla,Compliance,QBR Governance Automation,1,5,11.1,63.2,0,77.3,59,Green,0,0,0.0126,False
+INIT-1833,Rivian,Finance,Residual Risk Corridor,1,5,7.1,85.2,0,52.5,27,Green,0,0,0.0632,False
+INIT-1834,Rivian,Marketing,QBR Governance Automation,1,4,4.8,96.1,1,68.7,12,Green,0,0,0.0844,False
+INIT-1835,Jaguar Land Rover,Technology,Dealer Floorplan Enablement,7,3,10.7,102.8,1,71.4,6,Green,0,0,0.4797,False
+INIT-1836,Rivian,Finance,DTC Credit API Integration,1,1,6.0,72.6,0,81.8,44,Green,0,0,0.0007,False
+INIT-1837,Rivian,Compliance,Dealer Floorplan Enablement,2,5,11.0,92.4,0,70.4,25,Green,0,0,0.1112,False
+INIT-1838,Tesla,Legal,QBR Governance Automation,8,4,8.7,92.1,0,68.1,42,Green,0,0,0.4724,False
+INIT-1839,McLaren,Controls,Dealer Floorplan Enablement,4,4,16.3,82.6,0,84.6,23,Green,1,0,0.1141,False
+INIT-1840,Tesla,Product,Residual Risk Corridor,3,5,5.4,81.4,1,64.7,57,Green,0,0,0.1429,False
+INIT-1841,Tesla,Risk,DTC Credit API Integration,3,1,4.6,62.4,0,56.7,32,Green,0,0,0.0098,False
+INIT-1842,Tesla,Product,CIB/Private Bank Cross-Sell,4,2,5.5,101.6,0,80.8,12,Green,0,0,0.0702,False
+INIT-1843,Maserati,Legal,Dealer Floorplan Enablement,5,3,10.6,91.1,0,87.6,53,Green,0,0,0.037,False
+INIT-1844,Maserati,Operations,Dealer Floorplan Enablement,3,4,4.6,89.5,1,56.6,59,Green,1,3,0.0568,False
+INIT-1845,Rivian,Operations,EV Promo Launch,8,5,6.5,50.0,3,53.2,14,Green,0,0,0.4758,False
+INIT-1846,Rivian,Technology,EV Promo Launch,6,1,12.9,100.5,2,73.1,52,Amber,0,0,0.3824,False
+INIT-1847,Aston Martin,Operations,DTC Credit API Integration,6,1,7.1,83.8,0,93.0,26,Green,0,0,0.0056,False
+INIT-1848,Subaru,Legal,CIB/Private Bank Cross-Sell,2,4,6.5,75.9,0,82.7,33,Green,0,0,0.0102,False
+INIT-1849,Rivian,Marketing,EV Promo Launch,3,3,6.7,56.6,0,60.9,55,Green,0,0,0.0154,False
+INIT-1850,Jaguar Land Rover,Risk,DTC Credit API Integration,1,1,9.9,73.0,1,54.6,26,Green,0,0,0.0176,False
+INIT-1851,Aston Martin,Product,Residual Risk Corridor,8,3,1.0,82.7,3,60.8,40,Amber,1,9,0.6247,False
+INIT-1852,Jaguar Land Rover,Legal,Residual Risk Corridor,6,2,12.0,73.4,2,81.6,28,Green,0,0,0.0873,False
+INIT-1853,Rivian,Operations,CIB/Private Bank Cross-Sell,3,5,7.8,76.5,0,78.4,10,Green,0,0,0.0285,False
+INIT-1854,Rivian,Marketing,CIB/Private Bank Cross-Sell,1,3,5.1,65.8,0,80.4,50,Green,0,0,0.006,False
+INIT-1855,McLaren,Technology,Residual Risk Corridor,3,5,10.8,71.1,1,83.9,33,Green,0,0,0.0528,False
+INIT-1856,Rivian,Operations,QBR Governance Automation,1,2,1.1,60.9,0,90.6,12,Green,0,0,0.0001,False
+INIT-1857,Aston Martin,Legal,CIB/Private Bank Cross-Sell,5,2,5.5,62.7,2,74.1,58,Green,0,0,0.0777,False
+INIT-1858,Tesla,Risk,Dealer Floorplan Enablement,1,3,12.4,81.7,1,72.5,46,Green,0,0,0.1244,False
+INIT-1859,McLaren,Compliance,Dealer Floorplan Enablement,2,1,9.9,97.4,0,59.0,42,Green,0,0,0.0486,False
+INIT-1860,Rivian,Controls,Residual Risk Corridor,6,3,12.6,97.1,2,63.5,15,Amber,0,0,0.6852,False
+INIT-1861,Jaguar Land Rover,Controls,Residual Risk Corridor,4,2,3.7,53.2,0,74.4,26,Green,0,0,0.0009,False
+INIT-1862,Tesla,Controls,QBR Governance Automation,8,5,15.0,90.1,1,74.8,39,Red,0,0,0.8074,False
+INIT-1863,McLaren,Risk,Residual Risk Corridor,6,4,9.7,80.5,1,76.7,38,Green,0,0,0.3219,False
+INIT-1864,Tesla,Controls,CIB/Private Bank Cross-Sell,3,2,6.9,51.1,0,66.1,46,Green,0,0,0.0074,False
+INIT-1865,Aston Martin,Technology,QBR Governance Automation,6,5,3.2,66.8,2,58.9,27,Green,1,8,0.3342,False
+INIT-1866,McLaren,Risk,Dealer Floorplan Enablement,6,1,1.4,57.8,1,69.2,59,Green,0,0,0.019,False
+INIT-1867,Subaru,Finance,DTC Credit API Integration,4,5,4.7,82.9,1,76.4,7,Green,0,0,0.045,False
+INIT-1868,Subaru,Product,QBR Governance Automation,1,2,7.7,78.6,0,88.9,31,Green,0,0,0.0017,False
+INIT-1869,Aston Martin,Technology,DTC Credit API Integration,2,1,6.7,92.7,1,66.5,23,Green,0,0,0.0268,False
+INIT-1870,Rivian,Controls,QBR Governance Automation,4,1,6.6,62.4,0,67.5,16,Green,0,0,0.0042,False
+INIT-1871,Aston Martin,Technology,DTC Credit API Integration,1,4,10.5,96.7,0,77.7,47,Green,0,0,0.0348,False
+INIT-1872,Rivian,Marketing,QBR Governance Automation,5,5,1.0,67.1,0,52.1,14,Green,0,0,0.1052,False
+INIT-1873,Rivian,Risk,DTC Credit API Integration,1,5,7.9,69.8,0,73.6,27,Green,0,0,0.0154,False
+INIT-1874,Maserati,Legal,CIB/Private Bank Cross-Sell,5,1,8.6,57.5,0,65.1,28,Green,0,0,0.0127,False
+INIT-1875,Maserati,Risk,CIB/Private Bank Cross-Sell,3,5,12.9,72.6,0,89.1,40,Green,0,0,0.0552,False
+INIT-1876,Maserati,Finance,Residual Risk Corridor,8,4,8.1,61.6,0,74.9,22,Green,0,0,0.0475,False
+INIT-1877,Jaguar Land Rover,Operations,QBR Governance Automation,1,3,1.8,50.0,0,68.6,6,Green,0,0,0.0003,False
+INIT-1878,Rivian,Finance,CIB/Private Bank Cross-Sell,1,3,7.8,71.3,0,81.4,24,Green,0,0,0.0056,False
+INIT-1879,Rivian,Legal,DTC Credit API Integration,7,5,9.9,73.4,1,55.8,43,Amber,1,9,0.5228,False
+INIT-1880,Jaguar Land Rover,Finance,EV Promo Launch,6,2,3.5,79.0,2,59.3,27,Green,0,0,0.0739,False
+INIT-1881,Maserati,Finance,QBR Governance Automation,1,1,10.6,69.2,0,87.1,43,Green,0,0,0.0008,False
+INIT-1882,Tesla,Finance,Residual Risk Corridor,3,3,10.1,89.1,0,74.0,53,Green,0,0,0.0488,False
+INIT-1883,Tesla,Finance,Residual Risk Corridor,6,3,5.3,90.1,2,82.2,52,Green,0,0,0.1788,False
+INIT-1884,Jaguar Land Rover,Product,CIB/Private Bank Cross-Sell,4,3,8.3,71.5,1,72.6,26,Green,0,0,0.0542,False
+INIT-1885,Rivian,Operations,EV Promo Launch,2,4,2.5,65.3,0,67.4,58,Green,0,0,0.002,False
+INIT-1886,Tesla,Technology,EV Promo Launch,3,3,12.2,50.0,1,66.6,18,Green,0,0,0.0317,False
+INIT-1887,Tesla,Operations,Dealer Floorplan Enablement,5,4,6.5,72.0,0,75.7,29,Green,0,0,0.0305,False
+INIT-1888,Jaguar Land Rover,Legal,QBR Governance Automation,5,4,7.9,64.2,0,79.9,42,Green,0,0,0.0106,False
+INIT-1889,McLaren,Technology,DTC Credit API Integration,3,4,10.8,84.0,0,69.3,49,Green,0,0,0.0568,False
+INIT-1890,McLaren,Controls,QBR Governance Automation,3,1,8.3,76.1,1,83.5,51,Green,0,0,0.0062,False
+INIT-1891,Jaguar Land Rover,Product,QBR Governance Automation,1,1,8.1,58.7,1,72.9,5,Green,0,0,0.0018,False
+INIT-1892,McLaren,Technology,Residual Risk Corridor,8,5,8.3,72.4,0,75.3,8,Green,1,1,0.2078,False
+INIT-1893,McLaren,Technology,EV Promo Launch,8,3,3.1,83.9,0,63.9,37,Green,0,0,0.1038,False
+INIT-1894,Subaru,Operations,CIB/Private Bank Cross-Sell,5,4,2.7,87.2,2,53.5,8,Green,0,0,0.3309,False
+INIT-1895,Tesla,Risk,EV Promo Launch,7,3,11.3,76.6,1,71.9,14,Green,0,0,0.4311,False
+INIT-1896,Tesla,Finance,CIB/Private Bank Cross-Sell,8,1,2.3,78.9,0,66.8,10,Green,0,0,0.0808,False
+INIT-1897,McLaren,Compliance,DTC Credit API Integration,4,1,3.3,87.6,0,62.8,56,Green,0,0,0.0099,False
+INIT-1898,McLaren,Compliance,Residual Risk Corridor,4,3,5.0,79.9,1,73.9,33,Green,0,0,0.0305,False
+INIT-1899,Jaguar Land Rover,Legal,EV Promo Launch,1,4,11.5,64.6,1,66.6,12,Green,0,0,0.0157,False
+INIT-1900,Tesla,Technology,CIB/Private Bank Cross-Sell,7,4,6.5,105.1,1,70.2,41,Amber,0,0,0.7293,False
+INIT-1901,Tesla,Legal,EV Promo Launch,5,4,8.7,113.5,0,52.3,12,Amber,0,0,0.6233,False
+INIT-1902,Subaru,Controls,QBR Governance Automation,1,2,8.4,74.9,0,83.9,30,Green,0,0,0.0014,False
+INIT-1903,Rivian,Risk,DTC Credit API Integration,4,2,12.3,84.5,0,77.0,14,Green,0,0,0.0555,False
+INIT-1904,Rivian,Finance,DTC Credit API Integration,5,5,6.3,74.3,3,66.7,28,Green,0,0,0.3669,False
+INIT-1905,Tesla,Compliance,EV Promo Launch,5,5,9.3,85.8,4,48.1,45,Red,1,15,0.9363,False
+INIT-1906,Tesla,Operations,DTC Credit API Integration,3,4,5.3,86.5,0,68.3,14,Green,0,0,0.0208,False
+INIT-1907,Aston Martin,Legal,Dealer Floorplan Enablement,4,3,10.5,64.1,0,68.1,28,Green,0,0,0.051,False
+INIT-1908,Jaguar Land Rover,Risk,QBR Governance Automation,4,5,11.7,68.6,1,81.4,24,Green,0,0,0.0885,False
+INIT-1909,Tesla,Operations,QBR Governance Automation,6,2,7.7,67.7,0,68.6,59,Green,0,0,0.0211,False
+INIT-1910,Rivian,Product,EV Promo Launch,2,3,9.7,86.1,0,81.2,19,Green,0,0,0.0136,False
+INIT-1911,Tesla,Risk,QBR Governance Automation,1,3,4.9,100.1,0,60.6,52,Green,0,0,0.0602,False
+INIT-1912,Tesla,Marketing,CIB/Private Bank Cross-Sell,3,2,8.1,69.9,0,64.3,23,Green,1,0,0.0716,False
+INIT-1913,Rivian,Risk,DTC Credit API Integration,2,3,8.2,84.4,1,75.8,47,Green,0,0,0.0373,False
+INIT-1914,Tesla,Product,Residual Risk Corridor,2,2,1.0,86.3,0,92.4,52,Green,0,0,0.0016,False
+INIT-1915,Jaguar Land Rover,Marketing,QBR Governance Automation,7,1,4.5,89.2,1,71.5,17,Green,0,0,0.0923,False
+INIT-1916,Tesla,Product,CIB/Private Bank Cross-Sell,6,1,4.0,50.0,2,65.4,60,Green,0,0,0.0643,False
+INIT-1917,Jaguar Land Rover,Product,QBR Governance Automation,8,3,5.2,71.9,1,74.6,51,Green,0,0,0.0711,False
+INIT-1918,Subaru,Risk,CIB/Private Bank Cross-Sell,7,1,14.7,76.6,0,97.2,57,Green,0,0,0.0711,False
+INIT-1919,Tesla,Compliance,QBR Governance Automation,6,2,14.2,90.3,2,73.4,43,Amber,1,10,0.53,False
+INIT-1920,Subaru,Controls,DTC Credit API Integration,7,3,7.7,50.0,1,83.9,38,Green,0,0,0.0114,False
+INIT-1921,Tesla,Controls,QBR Governance Automation,1,2,8.2,89.1,1,67.5,6,Green,0,0,0.0277,False
+INIT-1922,Tesla,Technology,CIB/Private Bank Cross-Sell,2,4,12.8,73.5,1,59.0,6,Green,0,0,0.3145,False
+INIT-1923,Rivian,Controls,Dealer Floorplan Enablement,6,4,6.9,69.5,0,75.7,7,Green,0,0,0.0432,False
+INIT-1924,Subaru,Marketing,QBR Governance Automation,6,3,1.0,77.5,0,83.5,27,Green,0,0,0.0151,False
+INIT-1925,Subaru,Technology,DTC Credit API Integration,2,4,11.6,104.8,0,60.5,44,Green,1,7,0.1382,False
+INIT-1926,Jaguar Land Rover,Finance,DTC Credit API Integration,8,1,7.2,61.4,2,69.5,4,Green,0,0,0.0523,False
+INIT-1927,Rivian,Risk,Dealer Floorplan Enablement,2,3,15.5,86.8,1,72.2,10,Green,0,0,0.2728,False
+INIT-1928,Tesla,Controls,QBR Governance Automation,6,1,10.7,78.1,1,67.5,50,Green,0,0,0.1117,False
+INIT-1929,Tesla,Risk,Dealer Floorplan Enablement,2,2,12.6,61.5,0,90.6,24,Green,0,0,0.009,False
+INIT-1930,Jaguar Land Rover,Controls,Residual Risk Corridor,3,2,16.2,50.0,1,69.5,12,Green,0,0,0.014,False
+INIT-1931,Maserati,Product,Residual Risk Corridor,5,5,6.4,68.7,2,58.8,51,Green,0,0,0.2425,False
+INIT-1932,Jaguar Land Rover,Risk,Dealer Floorplan Enablement,1,3,10.9,86.7,1,70.7,57,Green,0,0,0.0561,False
+INIT-1933,Rivian,Marketing,Residual Risk Corridor,5,2,1.0,74.4,0,81.2,27,Green,0,0,0.0078,False
+INIT-1934,Tesla,Legal,QBR Governance Automation,6,4,9.1,89.5,1,66.9,27,Green,1,8,0.4614,False
+INIT-1935,Tesla,Technology,Dealer Floorplan Enablement,7,2,7.4,65.8,2,74.8,44,Green,0,0,0.1755,False
+INIT-1936,Jaguar Land Rover,Legal,CIB/Private Bank Cross-Sell,8,1,14.8,68.1,1,67.7,14,Green,0,0,0.2897,False
+INIT-1937,Rivian,Operations,DTC Credit API Integration,4,4,6.3,63.4,0,74.8,29,Green,0,0,0.0056,False
+INIT-1938,Tesla,Legal,CIB/Private Bank Cross-Sell,7,4,16.3,91.5,1,54.4,33,Amber,1,13,0.9561,False
+INIT-1939,Tesla,Operations,Residual Risk Corridor,8,2,8.1,63.2,2,87.2,38,Green,0,0,0.0619,False
+INIT-1940,Rivian,Technology,EV Promo Launch,4,2,11.5,71.4,0,53.2,24,Green,0,0,0.0568,False
+INIT-1941,Tesla,Technology,Residual Risk Corridor,1,4,7.8,88.9,1,57.0,21,Green,0,0,0.1274,False
+INIT-1942,Tesla,Risk,EV Promo Launch,3,5,15.5,79.9,1,81.5,42,Green,0,0,0.304,False
+INIT-1943,McLaren,Legal,CIB/Private Bank Cross-Sell,2,1,9.9,85.0,1,61.3,11,Green,0,0,0.0838,False
+INIT-1944,Tesla,Product,QBR Governance Automation,5,5,6.6,60.4,1,74.5,15,Green,0,0,0.0935,False
+INIT-1945,Jaguar Land Rover,Technology,DTC Credit API Integration,4,5,10.4,85.9,0,66.2,58,Green,0,0,0.0786,False
+INIT-1946,Tesla,Product,EV Promo Launch,8,2,15.3,61.9,3,73.1,40,Green,0,0,0.6614,False
+INIT-1947,Tesla,Marketing,CIB/Private Bank Cross-Sell,5,3,6.3,75.2,0,60.5,55,Green,0,0,0.2312,False
+INIT-1948,Subaru,Product,Dealer Floorplan Enablement,4,3,2.2,77.8,2,74.1,54,Green,0,0,0.0451,False
+INIT-1949,Jaguar Land Rover,Finance,Dealer Floorplan Enablement,1,1,7.0,55.3,1,78.2,12,Green,0,0,0.001,False
+INIT-1950,McLaren,Operations,Dealer Floorplan Enablement,4,5,3.5,80.8,0,71.6,13,Green,0,0,0.0288,False
+INIT-1951,Rivian,Marketing,Residual Risk Corridor,3,5,11.1,80.8,0,74.0,22,Green,0,0,0.1403,False
+INIT-1952,Rivian,Risk,EV Promo Launch,5,2,7.1,78.2,0,70.4,20,Green,0,0,0.037,False
+INIT-1953,Rivian,Risk,QBR Governance Automation,8,4,7.7,62.1,1,75.7,10,Green,0,0,0.236,False
+INIT-1954,Tesla,Controls,Dealer Floorplan Enablement,6,2,8.2,73.4,1,76.5,27,Green,0,0,0.0752,False
+INIT-1955,Maserati,Controls,DTC Credit API Integration,1,1,15.0,101.9,0,78.1,23,Green,0,0,0.0097,False
+INIT-1956,Tesla,Risk,CIB/Private Bank Cross-Sell,3,2,9.9,59.5,4,61.6,58,Green,0,0,0.5378,False
+INIT-1957,Subaru,Compliance,Residual Risk Corridor,1,3,11.9,76.8,1,83.0,45,Green,0,0,0.0108,False
+INIT-1958,Tesla,Operations,CIB/Private Bank Cross-Sell,8,2,1.0,98.8,1,63.0,14,Green,1,5,0.3086,False
+INIT-1959,Subaru,Technology,QBR Governance Automation,6,1,10.2,82.9,1,83.8,50,Green,0,0,0.0386,False
+INIT-1960,Tesla,Marketing,DTC Credit API Integration,1,2,4.1,69.9,0,66.6,14,Green,0,0,0.0058,False
+INIT-1961,Tesla,Operations,DTC Credit API Integration,1,1,8.5,81.6,1,76.3,43,Green,0,0,0.0043,False
+INIT-1962,Tesla,Controls,EV Promo Launch,1,2,8.8,79.0,0,74.4,54,Green,0,0,0.0044,False
+INIT-1963,Rivian,Finance,QBR Governance Automation,3,2,11.2,59.1,0,82.9,4,Green,0,0,0.0042,False
+INIT-1964,Tesla,Product,QBR Governance Automation,1,4,3.2,80.3,0,65.5,13,Green,0,0,0.0146,False
+INIT-1965,Rivian,Compliance,Dealer Floorplan Enablement,8,3,9.3,74.5,0,69.6,51,Green,0,0,0.1664,False
+INIT-1966,Rivian,Technology,Dealer Floorplan Enablement,5,2,6.1,66.6,1,63.7,21,Green,0,0,0.0488,False
+INIT-1967,Tesla,Legal,Dealer Floorplan Enablement,8,4,5.3,90.6,1,76.2,42,Green,1,2,0.4423,False
+INIT-1968,Tesla,Legal,DTC Credit API Integration,1,4,7.8,63.0,0,79.5,30,Green,0,0,0.0039,False
+INIT-1969,McLaren,Operations,Dealer Floorplan Enablement,2,2,3.1,86.3,1,73.7,36,Green,0,0,0.0076,False
+INIT-1970,Tesla,Risk,EV Promo Launch,4,3,5.9,50.0,1,76.0,11,Green,0,0,0.0168,False
+INIT-1971,Subaru,Technology,Dealer Floorplan Enablement,5,5,2.9,102.6,0,57.0,16,Green,0,0,0.2663,False
+INIT-1972,Maserati,Operations,Residual Risk Corridor,1,5,8.5,78.9,0,72.8,34,Green,0,0,0.0066,False
+INIT-1973,Subaru,Product,Residual Risk Corridor,7,3,6.4,55.1,1,69.1,59,Green,0,0,0.0517,False
+INIT-1974,Aston Martin,Technology,DTC Credit API Integration,3,3,5.7,77.4,0,71.6,47,Green,0,0,0.0126,False
+INIT-1975,Subaru,Technology,Residual Risk Corridor,7,3,5.9,95.6,0,62.0,34,Green,0,0,0.1863,False
+INIT-1976,Rivian,Risk,QBR Governance Automation,6,2,9.2,87.5,0,58.9,54,Green,0,0,0.2347,False
+INIT-1977,Jaguar Land Rover,Operations,CIB/Private Bank Cross-Sell,1,3,8.7,80.3,2,67.2,42,Green,0,0,0.0338,False
+INIT-1978,Tesla,Technology,Dealer Floorplan Enablement,7,5,10.9,95.2,1,82.1,27,Green,1,6,0.662,False
+INIT-1979,Rivian,Controls,QBR Governance Automation,5,1,5.9,72.3,0,76.4,15,Green,0,0,0.0054,False
+INIT-1980,Rivian,Compliance,DTC Credit API Integration,5,5,14.5,52.7,0,71.8,59,Green,0,0,0.0553,False
+INIT-1981,Tesla,Legal,QBR Governance Automation,5,3,6.7,72.2,1,71.8,31,Green,0,0,0.0694,False
+INIT-1982,Rivian,Operations,DTC Credit API Integration,5,5,1.0,68.8,2,68.5,4,Green,0,0,0.0435,False
+INIT-1983,Tesla,Marketing,Dealer Floorplan Enablement,7,5,1.9,75.0,3,50.8,8,Green,1,12,0.9052,True
+INIT-1984,Jaguar Land Rover,Marketing,QBR Governance Automation,6,4,5.0,101.7,0,64.5,9,Green,0,0,0.2647,False
+INIT-1985,Tesla,Controls,Dealer Floorplan Enablement,2,2,9.8,94.6,0,81.6,36,Green,0,0,0.0192,False
+INIT-1986,Tesla,Marketing,QBR Governance Automation,2,5,6.2,87.0,1,71.1,11,Green,1,1,0.1807,False
+INIT-1987,Tesla,Legal,Dealer Floorplan Enablement,4,2,8.2,73.7,1,77.7,58,Green,0,0,0.0388,False
+INIT-1988,Rivian,Operations,EV Promo Launch,8,1,1.5,84.8,2,66.6,34,Green,0,0,0.0695,False
+INIT-1989,Tesla,Finance,EV Promo Launch,4,3,4.8,91.6,1,87.4,56,Green,0,0,0.025,False
+INIT-1990,Tesla,Operations,Residual Risk Corridor,3,5,3.2,70.9,1,73.9,11,Green,0,0,0.0193,False
+INIT-1991,Subaru,Operations,DTC Credit API Integration,2,5,9.2,74.9,0,81.3,23,Green,0,0,0.0062,False
+INIT-1992,Tesla,Marketing,Dealer Floorplan Enablement,6,2,8.5,61.7,1,79.7,42,Green,0,0,0.0974,False
+INIT-1993,Tesla,Marketing,EV Promo Launch,7,3,3.7,91.5,2,68.5,56,Amber,0,0,0.5262,False
+INIT-1994,Rivian,Finance,DTC Credit API Integration,6,5,10.0,63.8,1,65.7,26,Amber,0,0,0.1974,False
+INIT-1995,Rivian,Controls,EV Promo Launch,3,4,6.7,82.9,0,63.6,8,Green,0,0,0.0288,False
+INIT-1996,Jaguar Land Rover,Legal,QBR Governance Automation,6,1,8.3,66.3,2,61.9,7,Green,0,0,0.0715,False
+INIT-1997,Tesla,Technology,DTC Credit API Integration,8,2,8.2,98.3,0,56.6,45,Green,1,8,0.4243,False
+INIT-1998,Tesla,Legal,QBR Governance Automation,1,1,15.6,77.8,0,69.2,30,Green,0,0,0.0211,False
+INIT-1999,Rivian,Marketing,CIB/Private Bank Cross-Sell,8,3,7.4,61.7,0,71.0,36,Green,0,0,0.2044,False
+INIT-2000,Tesla,Marketing,DTC Credit API Integration,7,5,4.7,79.9,0,84.2,8,Green,0,0,0.1443,False
+INIT-2001,Subaru,Marketing,CIB/Private Bank Cross-Sell,7,5,5.7,78.8,0,61.9,48,Green,0,0,0.4848,False
+INIT-2002,Tesla,Technology,Dealer Floorplan Enablement,3,3,12.7,87.7,0,78.2,53,Green,0,0,0.077,False
+INIT-2003,Rivian,Operations,CIB/Private Bank Cross-Sell,2,2,1.0,74.1,0,92.2,44,Green,0,0,0.0006,False
+INIT-2004,Tesla,Product,EV Promo Launch,7,1,2.2,68.8,3,65.5,38,Green,0,0,0.1492,False
+INIT-2005,Aston Martin,Risk,CIB/Private Bank Cross-Sell,7,5,6.4,72.5,4,63.8,52,Green,1,13,0.9536,True
+INIT-2006,Rivian,Risk,CIB/Private Bank Cross-Sell,4,5,6.9,81.2,0,73.8,23,Green,0,0,0.1654,False
+INIT-2007,McLaren,Operations,Dealer Floorplan Enablement,5,3,4.4,90.5,1,74.3,40,Green,0,0,0.0578,False
+INIT-2008,Rivian,Product,Dealer Floorplan Enablement,1,1,7.2,91.9,0,70.6,54,Green,1,0,0.0094,False
+INIT-2009,Jaguar Land Rover,Legal,DTC Credit API Integration,7,1,10.1,68.5,2,79.1,55,Green,0,0,0.0439,False
+INIT-2010,Subaru,Product,Residual Risk Corridor,6,5,4.9,85.1,2,88.0,22,Green,0,0,0.172,False
+INIT-2011,Rivian,Finance,DTC Credit API Integration,3,5,8.8,80.2,0,87.4,42,Green,0,0,0.0153,False
+INIT-2012,Maserati,Product,DTC Credit API Integration,8,4,1.0,53.7,1,61.9,33,Green,0,0,0.0414,False
+INIT-2013,Tesla,Controls,Residual Risk Corridor,3,1,11.1,71.4,0,76.9,28,Green,0,0,0.0078,False
+INIT-2014,Rivian,Finance,Residual Risk Corridor,7,4,6.9,95.2,1,67.0,51,Amber,1,7,0.4194,False
+INIT-2015,Tesla,Legal,Residual Risk Corridor,5,4,12.8,65.5,1,77.4,14,Green,0,0,0.1561,False
+INIT-2016,Rivian,Controls,DTC Credit API Integration,5,2,7.2,80.2,1,81.6,41,Green,0,0,0.0178,False
+INIT-2017,Subaru,Risk,EV Promo Launch,3,4,5.8,86.1,0,69.3,24,Green,0,0,0.0381,False
+INIT-2018,Subaru,Compliance,CIB/Private Bank Cross-Sell,8,4,12.7,76.1,0,81.2,14,Green,0,0,0.2825,False
+INIT-2019,Rivian,Operations,EV Promo Launch,6,5,2.7,74.1,1,77.0,10,Green,1,0,0.0337,False
+INIT-2020,Tesla,Operations,Dealer Floorplan Enablement,4,3,7.4,85.2,1,74.5,16,Green,0,0,0.0664,False
+INIT-2021,Jaguar Land Rover,Compliance,EV Promo Launch,4,3,10.6,75.0,0,88.1,26,Green,0,0,0.0056,False
+INIT-2022,Tesla,Legal,Dealer Floorplan Enablement,7,5,15.5,81.5,1,82.3,17,Green,0,0,0.7021,True
+INIT-2023,Rivian,Product,EV Promo Launch,7,5,8.9,83.7,0,73.9,10,Green,0,0,0.2445,False
+INIT-2024,Rivian,Risk,DTC Credit API Integration,6,5,14.0,81.0,1,74.0,29,Green,1,10,0.5789,False
+INIT-2025,Rivian,Risk,QBR Governance Automation,2,2,8.3,74.9,2,86.4,7,Green,0,0,0.024,False
+INIT-2026,Maserati,Legal,QBR Governance Automation,7,3,2.7,71.0,0,68.9,52,Green,0,0,0.0177,False
+INIT-2027,Rivian,Product,CIB/Private Bank Cross-Sell,2,2,7.8,75.0,0,76.9,35,Green,0,0,0.0109,False
+INIT-2028,Rivian,Finance,Residual Risk Corridor,8,1,5.3,101.8,2,72.2,59,Amber,1,5,0.3239,False
+INIT-2029,Subaru,Technology,Residual Risk Corridor,4,2,8.4,97.9,0,74.7,15,Green,1,0,0.0348,False
+INIT-2030,Jaguar Land Rover,Legal,Residual Risk Corridor,3,5,14.1,71.6,2,68.4,33,Green,0,0,0.2225,False
+INIT-2031,Rivian,Technology,EV Promo Launch,5,2,10.2,91.5,1,78.5,54,Green,0,0,0.0772,False
+INIT-2032,Jaguar Land Rover,Risk,Residual Risk Corridor,8,2,10.1,76.5,1,53.6,28,Amber,1,12,0.4615,False
+INIT-2033,Jaguar Land Rover,Marketing,CIB/Private Bank Cross-Sell,2,3,1.0,63.6,1,74.8,52,Green,0,0,0.0065,False
+INIT-2034,Aston Martin,Legal,QBR Governance Automation,7,4,5.7,85.8,1,71.8,38,Green,0,0,0.3022,False
+INIT-2035,Rivian,Product,Dealer Floorplan Enablement,8,2,5.7,84.6,0,79.2,36,Green,0,0,0.0837,False
+INIT-2036,McLaren,Finance,Dealer Floorplan Enablement,5,2,8.6,82.2,3,67.0,40,Green,1,6,0.3966,False
+INIT-2037,Rivian,Marketing,Residual Risk Corridor,4,1,9.1,58.4,0,53.2,35,Green,0,0,0.034,False
+INIT-2038,Subaru,Operations,QBR Governance Automation,6,3,1.0,78.9,0,92.8,17,Green,0,0,0.0025,False
+INIT-2039,Subaru,Finance,EV Promo Launch,2,1,4.7,71.8,0,71.7,18,Green,0,0,0.0013,False
+INIT-2040,Tesla,Risk,Residual Risk Corridor,3,5,10.3,71.3,0,95.4,26,Green,0,0,0.0285,False
+INIT-2041,McLaren,Legal,Residual Risk Corridor,3,5,11.3,102.0,1,74.1,8,Green,0,0,0.354,False
+INIT-2042,Rivian,Finance,QBR Governance Automation,2,4,5.0,64.9,0,72.2,54,Green,0,0,0.0048,False
+INIT-2043,Tesla,Compliance,QBR Governance Automation,7,2,8.7,72.5,2,62.5,6,Green,1,5,0.3572,False
+INIT-2044,Subaru,Compliance,Residual Risk Corridor,7,3,18.7,77.1,1,78.8,20,Amber,0,0,0.3922,False
+INIT-2045,Jaguar Land Rover,Product,CIB/Private Bank Cross-Sell,8,1,9.3,102.6,1,43.4,35,Green,1,13,0.8062,True
+INIT-2046,Rivian,Product,DTC Credit API Integration,2,5,4.3,71.8,2,64.8,47,Green,0,0,0.0621,False
+INIT-2047,Tesla,Compliance,Dealer Floorplan Enablement,2,3,5.5,69.9,0,72.6,42,Green,0,0,0.0078,False
+INIT-2048,Tesla,Operations,Dealer Floorplan Enablement,7,2,4.1,74.9,1,70.7,47,Green,0,0,0.0597,False
+INIT-2049,Maserati,Legal,CIB/Private Bank Cross-Sell,7,5,10.7,76.0,2,84.7,37,Amber,1,5,0.4458,False
+INIT-2050,Rivian,Finance,Dealer Floorplan Enablement,2,5,8.8,81.3,0,67.1,17,Green,0,0,0.0619,False
+INIT-2051,McLaren,Finance,Residual Risk Corridor,5,3,10.9,82.8,0,69.0,16,Green,0,0,0.1042,False
+INIT-2052,Jaguar Land Rover,Risk,EV Promo Launch,3,1,11.1,101.8,1,67.4,54,Green,0,0,0.0862,False
+INIT-2053,Rivian,Legal,QBR Governance Automation,6,4,10.7,88.1,1,82.1,50,Green,0,0,0.2196,False
+INIT-2054,Maserati,Marketing,Residual Risk Corridor,4,3,4.7,50.0,1,87.1,12,Green,0,0,0.0043,False
+INIT-2055,Subaru,Risk,DTC Credit API Integration,6,3,7.3,50.0,0,89.5,46,Green,0,0,0.0055,False
+INIT-2056,Rivian,Risk,Dealer Floorplan Enablement,6,4,9.6,85.5,0,75.8,23,Green,0,0,0.2705,False
+INIT-2057,Tesla,Product,QBR Governance Automation,4,3,6.4,66.2,1,58.7,18,Green,0,0,0.0869,False
+INIT-2058,Tesla,Finance,Residual Risk Corridor,1,3,5.8,86.1,1,74.7,45,Green,0,0,0.0177,False
+INIT-2059,Subaru,Risk,DTC Credit API Integration,1,2,10.5,83.0,1,67.3,14,Green,0,0,0.0336,False
+INIT-2060,Tesla,Compliance,Residual Risk Corridor,7,2,14.7,91.4,1,88.7,47,Green,1,2,0.272,False
+INIT-2061,Tesla,Compliance,DTC Credit API Integration,7,2,12.9,87.4,2,68.7,24,Amber,0,0,0.5668,False
+INIT-2062,McLaren,Technology,QBR Governance Automation,7,5,9.3,79.5,0,76.0,36,Green,0,0,0.2069,False
+INIT-2063,Jaguar Land Rover,Risk,QBR Governance Automation,5,3,13.1,93.6,1,77.8,14,Green,0,0,0.2613,False
+INIT-2064,Rivian,Marketing,CIB/Private Bank Cross-Sell,5,5,5.5,67.6,1,63.9,55,Green,1,2,0.3346,False
+INIT-2065,Rivian,Marketing,EV Promo Launch,1,3,1.0,107.1,0,75.1,6,Green,0,0,0.0137,False
+INIT-2066,Rivian,Compliance,DTC Credit API Integration,3,4,11.9,95.2,0,67.6,21,Green,0,0,0.1055,False
+INIT-2067,Tesla,Marketing,Residual Risk Corridor,2,1,2.8,80.8,1,89.1,30,Green,0,0,0.0051,False
+INIT-2068,Maserati,Legal,DTC Credit API Integration,4,4,12.4,87.9,1,79.1,16,Green,0,0,0.0935,False
+INIT-2069,McLaren,Legal,QBR Governance Automation,1,5,11.3,84.2,0,71.5,7,Green,0,0,0.0513,False
+INIT-2070,Rivian,Controls,CIB/Private Bank Cross-Sell,3,2,9.2,82.7,1,76.7,47,Green,0,0,0.0397,False
+INIT-2071,Rivian,Controls,Dealer Floorplan Enablement,7,3,14.3,61.5,0,95.2,42,Green,0,0,0.0317,False
+INIT-2072,Tesla,Compliance,DTC Credit API Integration,8,4,9.3,68.9,1,59.8,6,Amber,1,8,0.4536,False
+INIT-2073,Subaru,Legal,CIB/Private Bank Cross-Sell,7,4,6.6,72.9,1,71.3,33,Amber,0,0,0.2376,False
+INIT-2074,Aston Martin,Marketing,EV Promo Launch,3,1,5.3,78.7,0,85.8,12,Green,0,0,0.0055,False
+INIT-2075,Rivian,Finance,Residual Risk Corridor,2,2,8.5,95.1,0,71.3,47,Green,0,0,0.018,False
+INIT-2076,Tesla,Controls,Dealer Floorplan Enablement,7,2,10.8,71.2,2,63.6,39,Green,0,0,0.4424,False
+INIT-2077,Maserati,Operations,Dealer Floorplan Enablement,1,1,4.7,79.2,0,72.1,32,Green,0,0,0.0009,False
+INIT-2078,Subaru,Compliance,Residual Risk Corridor,6,2,13.4,87.2,0,78.3,47,Green,0,0,0.0742,False
+INIT-2079,Aston Martin,Legal,CIB/Private Bank Cross-Sell,5,3,16.2,66.9,0,73.1,39,Green,1,0,0.2151,False
+INIT-2080,Subaru,Marketing,EV Promo Launch,6,1,3.8,83.6,1,73.4,30,Green,0,0,0.0438,False
+INIT-2081,Rivian,Marketing,Dealer Floorplan Enablement,5,5,1.0,79.7,0,63.6,30,Green,0,0,0.1256,False
+INIT-2082,Rivian,Finance,DTC Credit API Integration,3,5,8.7,63.2,0,68.7,32,Green,0,0,0.0204,False
+INIT-2083,Jaguar Land Rover,Marketing,EV Promo Launch,4,4,1.0,74.2,2,71.4,7,Green,0,0,0.0446,False
+INIT-2084,Jaguar Land Rover,Operations,EV Promo Launch,2,1,1.0,58.6,0,83.1,41,Green,0,0,0.0001,False
+INIT-2085,Tesla,Finance,Residual Risk Corridor,4,4,11.9,87.5,0,87.6,52,Green,0,0,0.0634,False
+INIT-2086,Tesla,Risk,QBR Governance Automation,4,3,5.9,90.3,0,87.9,21,Green,0,0,0.0334,False
+INIT-2087,Aston Martin,Marketing,Dealer Floorplan Enablement,5,1,5.2,75.1,1,82.7,29,Green,0,0,0.0413,False
+INIT-2088,Aston Martin,Legal,QBR Governance Automation,6,2,12.0,73.6,0,66.1,55,Green,0,0,0.1171,False
+INIT-2089,Rivian,Legal,QBR Governance Automation,7,5,10.1,50.0,2,52.8,22,Amber,1,15,0.5424,False
+INIT-2090,Jaguar Land Rover,Product,Residual Risk Corridor,8,2,5.8,70.1,1,80.5,59,Green,1,0,0.0341,False
+INIT-2091,Tesla,Legal,Residual Risk Corridor,6,1,7.7,77.7,0,76.9,26,Green,0,0,0.0263,False
+INIT-2092,Aston Martin,Technology,EV Promo Launch,8,2,7.8,82.6,0,67.4,32,Green,0,0,0.1494,False
+INIT-2093,Aston Martin,Controls,DTC Credit API Integration,3,3,2.7,70.6,1,73.4,15,Green,0,0,0.0083,False
+INIT-2094,Rivian,Operations,CIB/Private Bank Cross-Sell,2,4,2.2,70.1,2,65.8,15,Green,0,0,0.0303,False
+INIT-2095,Jaguar Land Rover,Product,Residual Risk Corridor,3,2,7.1,90.4,0,62.7,23,Green,0,0,0.0219,False
+INIT-2096,Jaguar Land Rover,Finance,Residual Risk Corridor,5,4,7.0,61.4,1,74.5,53,Green,0,0,0.021,False
+INIT-2097,Subaru,Controls,CIB/Private Bank Cross-Sell,8,2,12.5,76.6,2,54.1,30,Amber,0,0,0.7625,False
+INIT-2098,Rivian,Marketing,Residual Risk Corridor,8,3,1.7,64.3,2,70.1,21,Green,0,0,0.2066,False
+INIT-2099,Subaru,Product,DTC Credit API Integration,2,4,7.1,67.4,1,78.8,18,Green,0,0,0.0102,False
+INIT-2100,Subaru,Finance,DTC Credit API Integration,8,3,10.5,84.1,1,79.6,48,Green,0,0,0.1966,False
+INIT-2101,Tesla,Product,CIB/Private Bank Cross-Sell,3,4,7.8,69.3,1,91.2,52,Green,0,0,0.0355,False
+INIT-2102,Jaguar Land Rover,Compliance,DTC Credit API Integration,4,1,9.0,95.0,1,59.7,32,Green,1,0,0.052,False
+INIT-2103,Aston Martin,Finance,QBR Governance Automation,8,1,2.5,53.4,2,84.2,50,Green,0,0,0.0186,False
+INIT-2104,Maserati,Marketing,DTC Credit API Integration,2,1,5.4,79.5,1,62.8,59,Green,0,0,0.0118,False
+INIT-2105,McLaren,Product,DTC Credit API Integration,3,2,8.7,84.0,0,79.4,21,Green,0,0,0.0124,False
+INIT-2106,Tesla,Controls,CIB/Private Bank Cross-Sell,1,4,8.6,97.1,0,74.5,29,Green,0,0,0.0584,False
+INIT-2107,Tesla,Controls,QBR Governance Automation,1,4,11.5,70.9,0,78.8,23,Green,0,0,0.0113,False
+INIT-2108,Jaguar Land Rover,Controls,EV Promo Launch,1,4,6.2,84.9,0,87.6,60,Green,0,0,0.0015,False
+INIT-2109,Jaguar Land Rover,Product,QBR Governance Automation,6,2,9.5,82.5,0,77.0,31,Green,0,0,0.0328,False
+INIT-2110,Subaru,Technology,Dealer Floorplan Enablement,3,4,14.5,87.2,0,68.1,34,Green,1,7,0.1598,False
+INIT-2111,Rivian,Marketing,QBR Governance Automation,6,2,6.2,86.8,2,66.8,40,Green,0,0,0.367,False
+INIT-2112,Rivian,Finance,Residual Risk Corridor,6,1,5.1,78.2,0,87.5,9,Green,0,0,0.0062,False
+INIT-2113,Jaguar Land Rover,Controls,QBR Governance Automation,8,1,9.3,80.5,2,60.1,40,Amber,0,0,0.2533,False
+INIT-2114,Tesla,Controls,EV Promo Launch,7,1,9.0,67.0,1,88.3,49,Green,0,0,0.0187,False
+INIT-2115,Jaguar Land Rover,Compliance,Residual Risk Corridor,8,5,13.4,90.5,1,76.2,60,Green,1,8,0.558,False
+INIT-2116,Jaguar Land Rover,Technology,Dealer Floorplan Enablement,4,1,8.8,85.8,1,66.8,44,Green,0,0,0.0395,False
+INIT-2117,Jaguar Land Rover,Product,CIB/Private Bank Cross-Sell,8,4,4.6,100.3,0,77.1,21,Green,0,0,0.2688,False
+INIT-2118,Tesla,Controls,CIB/Private Bank Cross-Sell,5,4,7.6,78.8,0,75.2,50,Green,0,0,0.0935,False
+INIT-2119,Rivian,Marketing,DTC Credit API Integration,3,5,1.0,55.6,1,59.5,19,Green,0,0,0.0298,False
+INIT-2120,Maserati,Legal,DTC Credit API Integration,3,5,12.8,79.8,2,43.1,60,Green,0,0,0.5557,False
+INIT-2121,Rivian,Operations,Dealer Floorplan Enablement,4,3,7.7,73.1,1,74.9,46,Green,0,0,0.0255,False
+INIT-2122,Jaguar Land Rover,Legal,QBR Governance Automation,7,5,6.3,65.6,1,91.1,27,Green,0,0,0.0328,False
+INIT-2123,Tesla,Compliance,Dealer Floorplan Enablement,4,3,10.2,87.8,0,88.2,33,Green,0,0,0.0394,False
+INIT-2124,Tesla,Legal,Dealer Floorplan Enablement,4,2,13.5,80.5,1,73.1,27,Green,0,0,0.1726,False
+INIT-2125,Rivian,Risk,DTC Credit API Integration,3,5,14.1,85.7,0,92.6,48,Green,0,0,0.0687,False
+INIT-2126,Rivian,Finance,DTC Credit API Integration,6,5,5.7,70.8,1,78.7,35,Green,0,0,0.0667,False
+INIT-2127,Maserati,Compliance,QBR Governance Automation,6,5,10.7,60.5,1,77.0,56,Green,0,0,0.0722,False
+INIT-2128,Subaru,Controls,CIB/Private Bank Cross-Sell,8,3,5.1,73.1,1,72.8,33,Green,0,0,0.1423,False
+INIT-2129,Rivian,Compliance,Dealer Floorplan Enablement,8,2,10.2,70.9,1,94.8,7,Green,0,0,0.0614,False
+INIT-2130,Tesla,Marketing,DTC Credit API Integration,3,3,7.0,79.7,1,75.1,16,Green,0,0,0.0668,False
+INIT-2131,Tesla,Technology,Residual Risk Corridor,6,3,9.1,75.2,2,58.2,47,Amber,0,0,0.4813,False
+INIT-2132,Maserati,Compliance,EV Promo Launch,6,1,8.9,61.2,1,65.4,25,Green,0,0,0.0183,False
+INIT-2133,Rivian,Technology,QBR Governance Automation,8,4,4.9,92.4,1,82.6,35,Green,0,0,0.2182,False
+INIT-2134,Subaru,Legal,DTC Credit API Integration,2,3,11.5,57.3,0,80.6,56,Green,0,0,0.0029,False
+INIT-2135,Tesla,Operations,EV Promo Launch,5,5,8.5,93.3,0,71.8,60,Green,1,0,0.1228,False
+INIT-2136,Jaguar Land Rover,Finance,QBR Governance Automation,2,4,6.5,80.5,0,82.0,10,Green,0,0,0.0047,False
+INIT-2137,Rivian,Technology,Residual Risk Corridor,4,2,8.3,74.2,1,76.3,26,Green,0,0,0.0243,False
+INIT-2138,Jaguar Land Rover,Legal,CIB/Private Bank Cross-Sell,8,4,6.6,93.0,0,77.6,48,Green,0,0,0.2163,False
+INIT-2139,Tesla,Technology,QBR Governance Automation,6,5,8.2,66.7,0,63.7,21,Green,0,0,0.1716,False
+INIT-2140,Tesla,Operations,QBR Governance Automation,4,5,10.6,89.4,1,58.7,5,Green,0,0,0.4174,False
+INIT-2141,Subaru,Technology,DTC Credit API Integration,7,1,6.3,86.1,2,70.6,33,Green,0,0,0.1213,False
+INIT-2142,Rivian,Product,EV Promo Launch,1,3,4.9,90.4,0,77.3,29,Green,0,0,0.0058,False
+INIT-2143,Subaru,Marketing,CIB/Private Bank Cross-Sell,1,2,9.4,59.5,1,72.9,52,Green,0,0,0.0166,False
+INIT-2144,Tesla,Technology,EV Promo Launch,1,3,12.0,88.7,1,90.8,7,Green,0,0,0.0214,False
+INIT-2145,Rivian,Compliance,Residual Risk Corridor,4,1,9.4,78.8,0,68.8,54,Green,0,0,0.0151,False
+INIT-2146,Jaguar Land Rover,Marketing,Residual Risk Corridor,2,1,6.3,74.0,0,73.8,20,Green,0,0,0.0033,False
+INIT-2147,Tesla,Legal,DTC Credit API Integration,2,3,10.8,73.1,2,69.5,12,Green,0,0,0.0858,False
+INIT-2148,Jaguar Land Rover,Risk,Residual Risk Corridor,1,2,9.0,74.6,0,67.3,56,Green,0,0,0.0065,False
+INIT-2149,Rivian,Finance,Residual Risk Corridor,3,2,5.0,88.5,0,89.4,60,Green,0,0,0.0035,False
+INIT-2150,Tesla,Technology,EV Promo Launch,6,3,8.5,104.5,2,58.1,21,Red,1,15,0.7537,False
+INIT-2151,Subaru,Marketing,Residual Risk Corridor,6,3,5.0,70.8,2,61.9,16,Green,0,0,0.2771,False
+INIT-2152,Tesla,Finance,EV Promo Launch,7,4,7.2,82.0,2,61.6,43,Green,1,6,0.5793,False
+INIT-2153,Subaru,Operations,QBR Governance Automation,1,1,4.7,74.9,0,64.4,32,Green,0,0,0.0011,False
+INIT-2154,Tesla,Controls,Dealer Floorplan Enablement,4,3,7.7,72.9,0,74.8,50,Green,0,0,0.0233,False
+INIT-2155,Tesla,Risk,CIB/Private Bank Cross-Sell,6,1,5.1,80.2,1,81.2,15,Green,0,0,0.1015,False
+INIT-2156,Jaguar Land Rover,Legal,CIB/Private Bank Cross-Sell,4,4,2.0,64.4,0,79.3,39,Green,0,0,0.005,False
+INIT-2157,Jaguar Land Rover,Technology,EV Promo Launch,4,5,11.9,91.5,0,71.7,22,Amber,0,0,0.105,False
+INIT-2158,Rivian,Legal,QBR Governance Automation,7,3,12.7,53.0,1,83.7,47,Green,0,0,0.0609,False
+INIT-2159,Jaguar Land Rover,Controls,Dealer Floorplan Enablement,2,3,5.6,77.3,1,81.4,16,Green,0,0,0.0052,False
+INIT-2160,Rivian,Operations,Dealer Floorplan Enablement,1,4,1.0,78.8,1,68.4,29,Green,0,0,0.0069,False
+INIT-2161,Aston Martin,Legal,QBR Governance Automation,5,1,14.1,59.5,2,62.8,30,Green,0,0,0.1923,False
+INIT-2162,Jaguar Land Rover,Risk,DTC Credit API Integration,7,4,14.0,80.3,1,69.2,32,Green,0,0,0.4978,False
+INIT-2163,Tesla,Compliance,CIB/Private Bank Cross-Sell,2,2,6.9,58.8,1,67.5,14,Green,0,0,0.0166,False
+INIT-2164,Rivian,Compliance,CIB/Private Bank Cross-Sell,5,2,14.1,68.7,2,70.5,21,Green,0,0,0.3002,False
+INIT-2165,Rivian,Operations,EV Promo Launch,2,3,7.2,93.4,1,66.6,25,Green,0,0,0.0283,False
+INIT-2166,Subaru,Technology,CIB/Private Bank Cross-Sell,8,2,9.4,90.8,4,76.6,35,Amber,1,14,0.8434,False
+INIT-2167,Rivian,Marketing,QBR Governance Automation,4,1,2.0,79.3,1,54.4,4,Green,0,0,0.0543,False
+INIT-2168,Aston Martin,Risk,EV Promo Launch,1,5,12.8,77.3,0,77.6,49,Green,0,0,0.0574,False
+INIT-2169,Jaguar Land Rover,Technology,Residual Risk Corridor,4,4,12.6,83.1,1,79.4,16,Green,0,0,0.0869,False
+INIT-2170,Aston Martin,Technology,Dealer Floorplan Enablement,4,4,6.5,86.1,0,80.6,21,Green,0,0,0.0527,False
+INIT-2171,Rivian,Finance,QBR Governance Automation,2,5,3.1,81.1,0,65.0,8,Green,0,0,0.0195,False
+INIT-2172,Subaru,Technology,DTC Credit API Integration,6,2,7.6,104.0,2,70.0,24,Green,0,0,0.3104,False
+INIT-2173,Subaru,Technology,Dealer Floorplan Enablement,5,5,10.3,80.8,1,72.5,41,Green,0,0,0.269,False
+INIT-2174,Aston Martin,Operations,CIB/Private Bank Cross-Sell,1,5,5.2,75.9,0,67.6,55,Green,0,0,0.019,False
+INIT-2175,Maserati,Operations,EV Promo Launch,5,2,4.6,77.4,2,78.6,6,Green,0,0,0.0123,False
+INIT-2176,Rivian,Technology,Dealer Floorplan Enablement,8,3,7.2,74.8,0,72.3,54,Green,0,0,0.1173,False
+INIT-2177,Jaguar Land Rover,Technology,EV Promo Launch,2,1,9.0,87.1,0,70.3,44,Green,0,0,0.0045,False
+INIT-2178,Rivian,Operations,DTC Credit API Integration,5,5,4.6,89.4,2,60.3,5,Amber,1,10,0.2827,False
+INIT-2179,Tesla,Risk,Residual Risk Corridor,1,4,11.2,78.3,1,64.8,26,Green,0,0,0.1548,False
+INIT-2180,Rivian,Operations,CIB/Private Bank Cross-Sell,4,2,5.3,94.1,2,69.3,6,Green,1,5,0.1274,False
+INIT-2181,Jaguar Land Rover,Controls,Dealer Floorplan Enablement,8,5,14.5,52.6,1,51.3,39,Green,1,13,0.5712,False
+INIT-2182,Jaguar Land Rover,Compliance,Dealer Floorplan Enablement,4,4,5.5,69.4,0,76.5,49,Green,0,0,0.0083,False
+INIT-2183,Subaru,Operations,Dealer Floorplan Enablement,3,5,11.4,63.3,0,72.5,40,Green,0,0,0.0217,False
+INIT-2184,Maserati,Legal,QBR Governance Automation,7,1,7.9,78.2,2,79.8,34,Green,0,0,0.0631,False
+INIT-2185,Subaru,Operations,Dealer Floorplan Enablement,2,5,7.2,101.1,0,81.2,49,Green,0,0,0.0249,False
+INIT-2186,Subaru,Compliance,CIB/Private Bank Cross-Sell,3,5,6.7,81.0,0,72.5,12,Green,0,0,0.0511,False
+INIT-2187,McLaren,Operations,QBR Governance Automation,4,2,8.9,79.9,1,60.0,9,Green,0,0,0.0616,False
+INIT-2188,Rivian,Product,DTC Credit API Integration,4,3,6.1,79.9,0,80.5,60,Green,0,0,0.0113,False
+INIT-2189,Tesla,Controls,Residual Risk Corridor,6,1,10.8,62.6,2,56.4,19,Green,0,0,0.2101,False
+INIT-2190,Subaru,Legal,DTC Credit API Integration,6,3,13.5,86.7,2,62.9,23,Green,1,11,0.5724,False
+INIT-2191,Jaguar Land Rover,Legal,Dealer Floorplan Enablement,2,3,4.6,86.6,0,73.3,36,Green,0,0,0.0067,False
+INIT-2192,Subaru,Risk,DTC Credit API Integration,2,1,9.8,92.9,0,60.0,15,Green,0,0,0.0352,False
+INIT-2193,Subaru,Compliance,Residual Risk Corridor,7,5,8.8,75.8,3,55.3,48,Green,1,16,0.8039,True
+INIT-2194,Jaguar Land Rover,Technology,DTC Credit API Integration,7,4,8.8,78.0,0,77.5,53,Green,0,0,0.0486,False
+INIT-2195,Rivian,Operations,DTC Credit API Integration,1,4,8.7,63.3,0,92.3,5,Green,0,0,0.0009,False
+INIT-2196,Jaguar Land Rover,Compliance,QBR Governance Automation,5,1,15.9,61.1,2,57.0,27,Green,1,7,0.1458,False
+INIT-2197,Tesla,Controls,CIB/Private Bank Cross-Sell,5,5,8.4,101.8,1,59.3,52,Green,1,9,0.7571,True
+INIT-2198,Maserati,Risk,Dealer Floorplan Enablement,2,2,11.3,76.9,0,63.9,35,Green,0,0,0.0306,False
+INIT-2199,Rivian,Product,CIB/Private Bank Cross-Sell,2,1,6.4,75.9,0,74.7,10,Green,0,0,0.007,False
